@@ -18,7 +18,7 @@ deactivate
 ### Usage
 
 ```python
->> python test.py
+>> python3 test.py
 ```
 
 ### Versioning
