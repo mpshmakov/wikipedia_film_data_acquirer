@@ -18,7 +18,8 @@ deactivate
 ### Usage
 
 ```python
->> python3 test.py
+>> python3 wikipedia_id.py
+>> python3 wikipedia_uuid.py
 ```
 
 ### Versioning
