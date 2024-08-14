@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup as bs
 import requests
 import pandas as pd
-import logging
+import logging, uuid
 
 # setup logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -24,10 +24,10 @@ for tr in trs:
     tds = tr.find_all("td")
     
     id += 1
-    film = tr.contents[1].text
-    year = tr.contents[3].text
-    awards = tr.contents[5].text
-    nominations = tr.contents[7].text
+    film = tr.contents[1].text.strip()
+    year = tr.contents[3].text.strip()
+    awards = tr.contents[5].text.strip()
+    nominations = tr.contents[7].text.strip()
     
     movies.append([id, film,year,awards,nominations])
     
