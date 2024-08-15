@@ -5,6 +5,7 @@ import logging, uuid
 
 # setup logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.debug("something")
 
 # print(soup.get_text())
 

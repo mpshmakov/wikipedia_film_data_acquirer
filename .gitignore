@@ -11,6 +11,10 @@ venv
 *.pyd
 __pycache__
 
+# Data files produced by the scripts
+*.csv
+*.json
+
 # Mock user-data log file
 mock-user-data.log
 
