@@ -19,11 +19,10 @@ trs = soup.find("table", class_="wikitable").find("tbody").find_all("tr")
 
 movies = []
 
-id = -1
 for tr in trs:
     tds = tr.find_all("td")
     
-    id += 1
+    id = uuid.uuid4()
     film = tr.contents[1].text.strip()
     year = tr.contents[3].text.strip()
     awards = tr.contents[5].text.strip()
