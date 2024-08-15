@@ -1,6 +1,6 @@
-## Wikipedia File Data Acquirer
+## Wikipedia Film Data Acquirer
 
-[write a description of the project]
+This project, the `Wikipedia Film Data Acquirer`, is a sophisticated tool designed to systematically harvest and collate information about films from Wikipedia, providing cinephiles and researchers with a rich dataset for analysis and exploration of cinematic history and trends.
 
 ### Install Dependencies
 
