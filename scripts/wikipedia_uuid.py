@@ -25,7 +25,7 @@ for tr in trs:
         nominations = tds[3].text.strip()
         movies.append([id, film, year, awards, nominations])
 
-df = pd.DataFrame(movies, columns=["Id", "Film", "Year", "Awards", "Nominations"])
+df = pd.DataFrame(movies, columns=["id", "film", "year", "awards", "nominations"])
 
 # Print only the first 5 records
 print(df.head().to_string(index=False))
