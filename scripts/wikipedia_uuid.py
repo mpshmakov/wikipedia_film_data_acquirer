@@ -10,9 +10,10 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 def fetchPage(url):
     try:
         res = requests.get(url)
-        print("successfully fetched the page")
+        logging.info("successfully fetched the page")
         return res
     except:
+        logging.error("Failed to fetch the page - No internet connection.")
         raise Exception("Failed to fetch the page - No internet connection.")
         
 
@@ -22,11 +23,14 @@ response = fetchPage("https://en.wikipedia.org/wiki/List_of_Academy_Award%E2%80%
 # response = fetchPage("https://tedboy.github.io/bs4_doc/4_kind_of_objects.html#beautifulsoup")
 
 soup = bs(response.content, features="html.parser")
+logging.info("created the soup")
 
 try: 
     trs = soup.find("table", class_="wikitable").find("tbody").find_all("tr")
+    logging.info("successfully found elements in the soup")
 except:
-    raise Exception("Page structure has changed. Can't find specified tags.")
+    logging.error("Page structure has changed. Unable find specified tags.")
+    raise Exception("Page structure has changed. Unable find specified tags.")
 
 movies = []
 for tr in trs:
@@ -38,6 +42,8 @@ for tr in trs:
         awards = tds[2].text.strip()
         nominations = tds[3].text.strip()
         movies.append([id, film, year, awards, nominations])
+    else:
+        logging.error("Didn't manage to find 4 necessary columns in the row")
 
 df = pd.DataFrame(movies, columns=["id", "film", "year", "awards", "nominations"])
 
