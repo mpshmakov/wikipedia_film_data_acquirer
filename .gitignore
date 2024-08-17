@@ -17,3 +17,6 @@ mock-user-data.log
 # Others
 .vscode
 push.sh
+
+# Generated data
+data
