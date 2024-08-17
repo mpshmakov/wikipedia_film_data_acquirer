@@ -1,8 +1,8 @@
 from bs4 import BeautifulSoup as bs
 import requests
-import pandas as pd
 import logging
 import uuid
+from dataframe_functions import exportToCsv, exportToJson, pd
 
 # Setup logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -49,3 +49,8 @@ df = pd.DataFrame(movies, columns=["id", "film", "year", "awards", "nominations"
 
 # Print only the first 5 records
 print(df.head().to_string(index=False))
+
+exportToCsv(df)
+exportToJson(df)
+
+    
