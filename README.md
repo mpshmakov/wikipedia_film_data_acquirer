@@ -18,8 +18,7 @@ deactivate
 ### Usage
 
 ```python
->> python3 ./scripts/wikipedia_id.py
->> python3 ./scripts/wikipedia_uuid.py
+python3 -m scripts.wikipedia_uuid
 ```
 
 ### Versioning
