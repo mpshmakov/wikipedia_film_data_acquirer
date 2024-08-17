@@ -2,7 +2,8 @@ from bs4 import BeautifulSoup as bs
 import requests
 import logging
 import uuid
-from dataframe_functions import exportToCsv, exportToJson, pd
+import pandas as pd
+from export_functions import exportToCsv, exportToJson
 
 # Setup logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -18,9 +19,6 @@ def fetchPage(url):
         
 
 response = fetchPage("https://en.wikipedia.org/wiki/List_of_Academy_Award%E2%80%93winning_films")
-
-# wrong page for testing
-# response = fetchPage("https://tedboy.github.io/bs4_doc/4_kind_of_objects.html#beautifulsoup")
 
 soup = bs(response.content, features="html.parser")
 logging.info("created the soup")
