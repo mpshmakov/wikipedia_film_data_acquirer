@@ -1,12 +1,11 @@
 from bs4 import BeautifulSoup as bs
 import requests
 import pandas as pd
-import logging, uuid
+import logging
+import uuid
 
-# setup logging
+# Setup logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-
-# print(soup.get_text())
 
 def fetchPage(url):
     try:
@@ -30,18 +29,17 @@ except:
     raise Exception("Page structure has changed. Can't find specified tags.")
 
 movies = []
-
 for tr in trs:
     tds = tr.find_all("td")
-    
-    id = uuid.uuid4()
-    film = tr.contents[1].text.strip()
-    year = tr.contents[3].text.strip()
-    awards = tr.contents[5].text.strip()
-    nominations = tr.contents[7].text.strip()
-    
-    movies.append([id, film,year,awards,nominations])
-    
-df = pd.DataFrame(movies, columns=["Id", "Film", "Year", "Awards", "Nominations"])
-# print(df)
+    if len(tds) >= 4:  # Ensure the row has enough columns
+        id = uuid.uuid4()
+        film = tds[0].text.strip()
+        year = tds[1].text.strip()
+        awards = tds[2].text.strip()
+        nominations = tds[3].text.strip()
+        movies.append([id, film, year, awards, nominations])
 
+df = pd.DataFrame(movies, columns=["id", "film", "year", "awards", "nominations"])
+
+# Print only the first 5 records
+print(df.head().to_string(index=False))
