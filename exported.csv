@@ -1,0 +1,1374 @@
+,id,film,year,awards,nominations
+0,a68be747-0974-4881-a732-eead51a1588f,Oppenheimer,2023,7,13
+1,187ae60c-d95e-4706-8638-58d5eef4a645,Poor Things,2023,4,11
+2,7f9407ed-f1b5-4c0c-811d-79c730f1a3e6,The Zone of Interest,2023,2,5
+3,a94618c5-d66f-4e60-8c56-6af2ea5b5e12,American Fiction,2023,1,5
+4,34fbf2e6-bc43-4b77-9bca-dfba39b7b85e,Anatomy of a Fall,2023,1,5
+5,51070375-54bf-441a-af04-a2c4cbc4443c,Barbie,2023,1,8
+6,3f9d2e5b-a9be-4234-afe2-66a0aef088f0,The Boy and the Heron,2023,1,1
+7,5bc1f86f-504a-4d3c-9b7b-24783808859b,Godzilla Minus One,2023,1,1
+8,ff30e71d-a3b0-49e7-b0d8-3d9456c63c47,The Holdovers,2023,1,5
+9,c36c262d-c15f-4d08-8403-ca7fa66d53dc,The Last Repair Shop,2023,1,1
+10,da5cc9c5-9f3d-4d1c-99bb-cf0dba072587,20 Days in Mariupol,2023,1,1
+11,12a4c26b-978e-460a-99d9-d98049124444,War Is Over! Inspired by the Music of John and Yoko,2023,1,1
+12,d5af7453-38fe-4d33-ba70-000d61bf17c2,The Wonderful Story of Henry Sugar,2023,1,1
+13,7138458a-55ea-4187-94b0-964aca4f2f12,Everything Everywhere All at Once,2022,7,11
+14,9060a98a-1f57-4035-b5bd-14e4978640f9,All Quiet on the Western Front,2022,4,9
+15,3b42c365-fcea-44a2-9c80-c1c6d6d4ae55,The Whale,2022,2,3
+16,c09ba9a0-5d8a-4c93-8c86-a97d1af3cfd3,Top Gun: Maverick,2022,1,6
+17,64c84758-f9db-4288-8c36-e0206a4fc348,Black Panther: Wakanda Forever,2022,1,5
+18,a21c1579-9aa4-45dd-813a-7052fea0cc06,Avatar: The Way of Water,2022,1,4
+19,4d5b0920-bc85-4c2e-817d-6f0c743dc6a8,Women Talking,2022,1,2
+20,9bbdfc9b-6754-4d0d-9fd1-a7efadcf7e11,Guillermo del Toro's Pinocchio,2022,1,1
+21,2fe2347b-5a20-4c1c-aa37-37965de1312a,Navalny,2022,1,1
+22,2bf4579b-4524-4b02-8591-58de14f2ce57,The Elephant Whisperers,2022,1,1
+23,5b174087-2139-453a-a0b4-45a67be47a83,An Irish Goodbye,2022,1,1
+24,304d1669-a9aa-4524-b5c9-54f24269b033,"The Boy, the Mole, the Fox and the Horse",2022,1,1
+25,8435b2e3-1d16-4251-878b-6822c970f424,RRR,2022,1,1
+26,d296e057-cec1-4cf1-9540-1ccf5f8fbd26,CODA,2021,3,3
+27,979a2423-d26c-40f1-a45f-2b9dc3b56715,Dune,2021,6,10
+28,e04e329a-dfe6-45b7-af13-80a8f5875ed4,The Eyes of Tammy Faye,2021,2,2
+29,85e41410-a6c1-4418-bce2-da120a69aba1,No Time to Die,2021,1,3
+30,e2350c17-02dd-4fa1-b5d5-f3b64ba5e93e,The Windshield Wiper,2021,1,1
+31,df8a6a62-f5e1-4956-b3f3-8049709fa451,The Long Goodbye,2021,1,1
+32,cb8838a7-c15a-4857-953b-d715b1a9b7a9,The Queen of Basketball,2021,1,1
+33,f3001a46-b36c-4a73-9092-b79a7d28564c,Summer of Soul,2021,1,1
+34,d97a4c29-14c2-42f3-a1be-e96301b2611f,Drive My Car,2021,1,4
+35,e5ecd344-ec21-48b4-81d3-5c6f0422071e,Encanto,2021,1,3
+36,6324ae49-ee78-4572-a6a2-589394dbd7ab,West Side Story,2021,1,7
+37,891b4db5-64fc-48f7-ba7e-d77ace794745,Belfast,2021,1,7
+38,c3a2b5cf-99a2-4539-a98f-df45ba8621da,The Power of the Dog,2021,1,12
+39,f8f990c2-fed5-4ab0-ac4f-24226344548b,King Richard,2021,1,6
+40,ec1a9cf6-bfbf-4a07-a45a-c0e274d8565c,Cruella,2021,1,2
+41,568eb5c0-3d20-41cd-982e-e0866abe974a,Nomadland,2020/21,3,6
+42,efad4a12-3606-4193-8d78-a58c7a97d466,The Father,2020/21,2,6
+43,c29697bd-4e48-44dc-8277-8eac6ff8f1c3,Judas and the Black Messiah,2020/21,2,6
+44,d41782b7-2e90-40b1-9512-0d61e22c2de1,Minari,2020/21,1,6
+45,2e91a571-1b09-4a26-b2e9-54c0b6c60ef8,Mank,2020/21,2,10
+46,288450d2-2df3-4eef-a73b-a25aa4ab2a47,Sound of Metal,2020/21,2,6
+47,5148b86f-fa7d-4213-a2a9-0635346fbf90,Ma Rainey's Black Bottom,2020/21,2,5
+48,b038c4c5-104a-4e45-8834-8370f169f762,Promising Young Woman,2020/21,1,5
+49,170576b5-4249-40c2-96d0-975e10cb11f0,Tenet,2020/21,1,2
+50,89f0489e-07f5-4ec2-b14f-093a67b9993e,Soul,2020/21,2,3
+51,efed143b-572f-4da5-a59a-3556dca15c9e,Another Round,2020/21,1,2
+52,ab23e2fe-83e1-44d4-9f2e-bf88af90566b,My Octopus Teacher,2020/21,1,1
+53,840e93ce-bdbf-4b2a-a75e-75e2a27ff97e,Colette,2020/21,1,1
+54,b81a2eb8-fcd7-4e9b-b6da-56d341b57dcb,If Anything Happens I Love You,2020/21,1,1
+55,999cad53-2c97-4f1f-a4a3-e253d80ffa56,Two Distant Strangers,2020/21,1,1
+56,9e16609a-984c-49da-8a7c-104f358eeb88,Parasite,2019,4,6
+57,6ffd986e-b517-44b9-a41a-a44babe0ad9f,Ford v Ferrari,2019,2,4
+58,36454b18-38f7-4970-b214-9c51d4587cb1,Learning to Skateboard in a Warzone (If You're a Girl),2019,1,1
+59,76ec9255-e99f-417f-b53d-e9919e9035ce,The Neighbors' Window,2019,1,1
+60,e0ded773-5f6a-4625-9d6a-4c337bf574bf,Little Women,2019,1,6
+61,5fe179bf-2c00-4581-a39d-12a425005fd7,Marriage Story,2019,1,6
+62,cd802a6e-40c4-4ff7-9ca2-b30341d9b7a5,Jojo Rabbit,2019,1,6
+63,208074fa-f28a-49d9-9c9a-3b5bbe3f7e5b,Toy Story 4,2019,1,2
+64,499fc4d0-aa12-4153-914d-ac0d9655f090,Joker,2019,2,11
+65,78e65779-092e-443c-b702-f53780167bb2,Once Upon a Time in Hollywood,2019,2,10
+66,df1ee673-38b5-4dd5-ab98-009086123ed8,1917,2019,3,10
+67,ac10db32-1fcf-4f0b-843b-23dbf65a4308,Judy,2019,1,2
+68,f14a4539-ed02-4199-b703-734ff0adbe41,Bombshell,2019,1,3
+69,d695e63c-480a-404b-90bb-cdf87908536f,Rocketman,2019,1,1
+70,7d37b470-4320-49dd-ab56-f478fda20894,American Factory,2019,1,1
+71,4c591fe7-707b-4de9-b220-c075cee50731,Hair Love,2019,1,1
+72,0ae4e6bc-e951-41f9-96c2-3403db6c8def,Green Book,2018,3,5
+73,4966c5a2-2ab6-48a5-985e-325bcff1e8f3,Bohemian Rhapsody,2018,4,5
+74,5e1fceb7-dab7-4d15-85a4-f63961ee5dd6,Roma,2018,3,10
+75,4c361cdc-b3e3-482e-ad71-1440247a9db0,Black Panther,2018,3,7
+76,d037b49b-2544-4628-825b-8bab39ef438b,The Favourite,2018,1,10
+77,2707a447-89f8-4b88-89d3-878a97fae206,A Star Is Born,2018,1,8
+78,fad5f395-54e1-4a7c-8c6d-9bab363122d0,Vice,2018,1,8
+79,f339cd00-7db5-4333-866e-c7b993c0cd2d,BlacKkKlansman,2018,1,6
+80,fa9c5386-fd40-4fe3-86e2-bb7823c8d732,First Man,2018,1,4
+81,268263db-f825-4322-9be6-e0b3143b02d6,If Beale Street Could Talk,2018,1,3
+82,6e18bcdf-226f-4e98-a1f9-b0afbdd75319,Bao,2018,1,1
+83,080e59ed-5697-400e-bc56-d44615cb4ddf,Free Solo,2018,1,1
+84,4f49012b-2947-4288-8ea4-42baf0683b99,Period. End of Sentence.,2018,1,1
+85,a828a6cb-e39d-4f8e-85f5-64d84f9d4986,Skin,2018,1,1
+86,3730584f-0e24-469f-ad1f-9f7dcabd7f09,Spider-Man: Into the Spider-Verse,2018,1,1
+87,46691451-506d-4df0-8896-43b29305c551,The Shape of Water,2017,4,13
+88,3ace1a68-bc73-4f0e-b3b8-5f36e098e51f,Dunkirk,2017,3,8
+89,008f3018-75d3-4945-87a4-4c4cccef07f7,"Three Billboards Outside Ebbing, Missouri",2017,2,7
+90,2c6613fc-4674-42ac-ae0e-391ac1e0647a,Darkest Hour,2017,2,6
+91,b8c56c34-6c6e-4907-9423-7eefdbcd2d95,Blade Runner 2049,2017,2,5
+92,050b9ebb-e19b-4584-8e5e-dc2459a13ecf,Coco,2017,2,2
+93,f45e3ea0-983b-47c4-ab85-7ee28291f7ad,Phantom Thread,2017,1,6
+94,164a55a6-bbd4-47fb-8993-06d9d8d06099,Call Me by Your Name,2017,1,4
+95,c2c31e32-825b-435a-b06a-e91ac8abd400,Get Out,2017,1,4
+96,0bdfbb93-07c6-4c76-ba70-5bf7f1eb3e20,"I, Tonya",2017,1,3
+97,e2e43486-f0d6-4104-84e1-8c67f9a302b1,Dear Basketball,2017,1,1
+98,64027fc6-298d-4dd7-9a4d-eaf595983ab9,A Fantastic Woman,2017,1,1
+99,dea8d51b-aee1-41f0-8ec6-c12bf2e1fa50,Heaven Is a Traffic Jam on the 405,2017,1,1
+100,07c0d463-fc60-4103-994b-2f8f29023a71,Icarus,2017,1,1
+101,3f76c874-0f0d-41e8-98a2-79344a785951,The Silent Child,2017,1,1
+102,c928099a-7e51-4359-aea9-a9cb8cd5d3ac,Flesh and Sand (Carne y arena),2017,0 (1)[1],0
+103,9706931b-b0e8-4aaf-a69c-d2fb7288850b,Moonlight,2016,3,8
+104,edf638bf-b1f4-4f73-acb4-d4a472aedcef,La La Land,2016,6,14
+105,92e73c91-d192-422b-a067-caccc940d75a,Hacksaw Ridge,2016,2,6
+106,697460f2-ec0a-47d9-8336-0a6a1e147608,Manchester by the Sea,2016,2,6
+107,e6c1dd1a-4595-4ef8-8229-063c72b92a78,Arrival,2016,1,8
+108,11fbfcb3-c856-4815-b449-d5fc9e292a90,Fences,2016,1,4
+109,2eedf053-9f5c-4bc3-abec-e44411d112af,Fantastic Beasts and Where to Find Them,2016,1,2
+110,cc5c28a2-5e1e-421a-b4de-11f80f6f1b27,The Jungle Book,2016,1,1
+111,0096c6d9-288f-4edd-b305-59ee352ba69f,O.J.: Made in America,2016,1,1
+112,2332aa50-15aa-4346-a69e-b7581307f23b,Piper,2016,1,1
+113,42fa993b-f595-46bf-97ee-0ba75acd3bb6,The Salesman,2016,1,1
+114,b8a11a23-a6f5-4563-96d7-5adb0ac8472b,Sing,2016,1,1
+115,61e57688-2ec3-408b-a4b7-70b026a9fca9,Suicide Squad,2016,1,1
+116,f2711cfa-e71b-4196-9e93-dd751310d47b,The White Helmets,2016,1,1
+117,adaf4b9f-d56d-4103-841c-1e2cb69b84bc,Zootopia,2016,1,1
+118,5e50a761-2886-44e2-995b-ac6a902003ed,Spotlight,2015,2,6
+119,70299782-96e7-4a54-8687-a7685096c69e,Mad Max: Fury Road,2015,6,10
+120,c5d9b85d-4e18-4736-ad13-dc58bc558c00,The Revenant,2015,3,12
+121,2261255a-ac25-4f5d-9f80-73f1977e8303,Bridge of Spies,2015,1,6
+122,314fe6d5-5945-4481-8027-d7f3c857fa03,The Big Short,2015,1,5
+123,abb343b3-187f-4955-a14d-22ca7078a149,The Danish Girl,2015,1,4
+124,9bc47bf1-1dae-441f-91be-6ea3a76a06ab,Room,2015,1,4
+125,05d5e258-4800-4cc8-929b-da2d41aad7a5,The Hateful Eight,2015,1,3
+126,bec732a0-e73f-46ec-910f-7e828ea833bf,Ex Machina,2015,1,2
+127,b47a1a3b-72fb-48c1-b2a8-78824f8d563c,Inside Out,2015,1,2
+128,c4c04785-9010-479c-ba79-0c62386607a3,Amy,2015,1,1
+129,cc017586-a9b3-4dfe-ad3c-97495a33aed8,Bear Story,2015,1,1
+130,1e613fa2-4366-43ed-8275-583da8c04e80,A Girl in the River: The Price of Forgiveness,2015,1,1
+131,0de59822-fab6-447b-ab51-b62fe44caa63,Son of Saul,2015,1,1
+132,e4bde42e-2b0a-4bd1-82be-b4f97122aa4f,Spectre,2015,1,1
+133,09d1b6e0-8a68-4bdb-a6d8-97240fee62c2,Stutterer,2015,1,1
+134,774364d3-a013-414e-8699-fff46067cb06,Birdman or (The Unexpected Virtue of Ignorance),2014,4,9
+135,1fbf5bfe-dd94-4c80-b3d7-049cf01f5975,The Grand Budapest Hotel,2014,4,9
+136,60cbbf1f-8b19-48a6-996a-50a9e2619b1a,Whiplash,2014,3,5
+137,1319caf9-b5df-44d7-a1f2-f29e0dc5dda4,The Imitation Game,2014,1,8
+138,bacd1d66-d50b-436c-be1e-f385c7766ff0,American Sniper,2014,1,6
+139,a9a8e2f4-1926-4dc0-930e-878c7f5a7e09,Boyhood,2014,1,6
+140,02ad4009-f22c-4624-869b-367ca3d86b5e,Interstellar,2014,1,5
+141,aa8c3a3f-cc94-4773-b04e-c60395021e9a,The Theory of Everything,2014,1,5
+142,57f8a3bb-9f1d-4f69-9cdc-9ae2df6bfec9,Ida,2014,1,2
+143,a498275c-873e-4483-9b4e-a51d2f2a48db,Selma,2014,1,2
+144,03416463-bf41-4fe8-9419-159d4b158dfe,Citizenfour,2014,1,1
+145,380cb7f6-ec2b-4007-a890-f8b5eb47e840,Big Hero 6,2014,1,1
+146,83a13d8d-c611-4b4a-890a-b3687044c0d9,Crisis Hotline: Veterans Press 1,2014,1,1
+147,4e7f92d3-ba9c-41dd-a95f-427c47fe69da,The Phone Call,2014,1,1
+148,314809c6-990f-4794-8c5a-c841fc3498c1,Still Alice,2014,1,1
+149,a428e04b-4c86-45d8-a3ca-54e9e636d300,Feast,2014,1,1
+150,654eb4ac-f5c4-41c1-8e4b-ab3cc25da1a5,12 Years a Slave,2013,3,9
+151,219f6bef-0da6-472d-8269-05c9e130c4d5,Gravity,2013,7,10
+152,b5d24aab-9180-46b2-bdf8-c0803ab1a530,Dallas Buyers Club,2013,3,6
+153,b193b99b-91f8-40ba-97ef-4bc171d3a358,Frozen,2013,2,2
+154,7e6aaced-c4ba-47d5-b013-0eaaa473e7ea,The Great Gatsby,2013,2,2
+155,d3a340f8-17ce-4464-b5b9-1dfdccad38a1,Her,2013,1,5
+156,d341b3c8-a461-4e70-a139-3f9538e35419,Blue Jasmine,2013,1,3
+157,bb7cb219-2a00-47a7-ba8d-df7bad842679,Mr Hublot,2013,1,1
+158,1142e3e1-460b-4919-a36e-068f2869d96f,The Lady in Number 6,2013,1,1
+159,3b12cf43-d747-4591-80e9-04ebefbff4f0,Helium,2013,1,1
+160,b23bdbe2-4c3e-4e6c-8e00-d74f220ebb7b,The Great Beauty,2013,1,1
+161,49d0ef12-d5e2-47e5-9e9a-1aab308cc4c1,20 Feet from Stardom,2013,1,1
+162,a7cf3bf0-196e-4e31-a5e1-b7c87403450d,Argo,2012,3,7
+163,6b523d9a-cb76-46d2-81de-3b11a5e3bbd5,Life of Pi,2012,4,11
+164,f7b541ce-e1b6-4e4d-9c87-0d995f066a9c,Les Misérables,2012,3,8
+165,cd391119-397d-42ed-b4d0-448f6dfd5b8d,Lincoln,2012,2,12
+166,72b97596-75d4-4a7d-83f7-adab2668f3e9,Django Unchained,2012,2,5
+167,18810305-97c3-4941-a193-08ca968c4d95,Skyfall,2012,2,5
+168,6bbe225e-3245-4716-8a45-5dbab667fdd9,Silver Linings Playbook,2012,1,8
+169,1a5249bf-b0d0-4855-8d26-97bb90860466,Zero Dark Thirty,2012,1,5
+170,6c55862d-3458-439b-9b4d-fcad80791543,Amour,2012,1,5
+171,7a377959-b9a2-40ce-ac3e-0c55d4af01c8,Anna Karenina,2012,1,4
+172,17e54e99-37aa-44f6-b893-c40530f7c761,Paperman,2012,1,1
+173,f989ef9d-a3b2-4ae8-9e3b-c4ad5167dc45,Brave,2012,1,1
+174,256534ef-8a8a-4ea3-b80a-ec98f18e80c8,Searching for Sugar Man,2012,1,1
+175,5df78af8-4c3a-4538-a6c1-0b75e583bdd1,Inocente,2012,1,1
+176,869b0c32-6aa8-499b-95ad-c6eb99d5c8c8,Curfew,2012,1,1
+177,c399ff2b-24e6-494b-bbaa-4feab8c7428e,The Artist,2011,5,10
+178,527f9d0f-dd7f-4280-b14c-032b33108d58,Hugo,2011,5,11
+179,b062e1b1-c1cb-47b6-bdb2-d37438cafe36,The Iron Lady,2011,2,2
+180,8bcc746e-d3a7-4e59-9f72-dfaee518e41e,The Descendants,2011,1,5
+181,935d220f-7161-4704-832a-bae7b30868a8,The Girl with the Dragon Tattoo,2011,1,5
+182,4d096801-074d-42cd-99e2-96789e4ca375,Midnight in Paris,2011,1,4
+183,b6e86de8-1e7c-485d-b771-eda3301549e8,The Help,2011,1,4
+184,51348a8d-2a30-4f88-9912-03441c0a8037,A Separation,2011,1,2
+185,d8750246-7bc7-4f22-a959-79a6c1c554cf,The Fantastic Flying Books of Mr. Morris Lessmore,2011,1,1
+186,ae2f0481-e9b6-4578-bacd-0f03c87d4f71,The Shore,2011,1,1
+187,bd5dc7fc-9cef-4e62-9964-e142725196b1,Undefeated,2011,1,1
+188,d93e3d32-e50c-4d0b-9cf0-a696a26a51b2,The Muppets,2011,1,1
+189,8cad8fa6-d6de-4182-8381-8a0655625bfb,Saving Face,2011,1,1
+190,50011cd1-b536-40ea-b60e-21ff718ce6d7,Beginners,2011,1,1
+191,c36a7379-c8a3-4ab1-89df-3ec719d8b2d2,Rango,2011,1,1
+192,7244364d-0a88-4815-b374-11c140f99213,The King's Speech,2010,4,12
+193,a4ce8da0-4fcd-4c1f-a6ca-ea8e38a528d9,Inception,2010,4,8
+194,6890ee3e-6e4b-4193-9ce7-c5b1149df9d4,The Social Network,2010,3,8
+195,f59ec1b5-31e4-4355-96af-1f9b7386cf5f,The Fighter,2010,2,7
+196,0f494adf-015c-47b6-823d-7d9f32ed6b9d,Toy Story 3,2010,2,5
+197,c3c4df7b-8e70-42a8-9a5a-0cc6dcc6ffcd,Alice in Wonderland,2010,2,3
+198,62e120f9-7a86-4233-9672-f6c68450370a,Black Swan,2010,1,5
+199,b3d8f094-33fd-4367-b762-9e1bc57c3ec2,In a Better World,2010,1,1
+200,fe7e5ea6-a102-4ba3-b971-1f081029cb95,The Lost Thing,2010,1,1
+201,1cc8ed8a-6986-42dc-be12-17dddba61a75,God of Love,2010,1,1
+202,bf7432dc-c773-4a86-8a33-eceff9c174e5,The Wolfman,2010,1,1
+203,f24c2e81-8f97-497c-ae89-7ed1e8bdaf4e,Strangers No More,2010,1,1
+204,1955d7eb-fe28-4ae4-9039-3041b41e1135,Inside Job,2010,1,1
+205,27e12f81-c4ef-4c83-9680-9b261324ec25,The Hurt Locker,2009,6,9
+206,ee876c7d-bf94-4dc2-b264-c6214d016ee9,Avatar,2009,3,9
+207,e0b7ce91-08c5-4d84-956f-5a1aa460f396,Precious,2009,2,6
+208,c57bfe33-1ff3-47d3-ab23-9ebe9bfbe036,Up,2009,2,5
+209,acd4e12a-ba0f-4d95-bfc9-f8f541d044f2,Crazy Heart,2009,2,3
+210,7b474c72-a50c-441a-bbaf-d793afc5e211,Inglourious Basterds,2009,1,8
+211,f6b678e4-751b-40d4-b4b6-d7f5f560613d,Star Trek,2009,1,4
+212,88262d74-0ea4-4786-bb16-35801ef8002b,The Young Victoria,2009,1,3
+213,522f24d7-26fb-4b3e-b2ab-9d2357d06ee5,The Blind Side,2009,1,2
+214,b3eadbb3-f23f-4424-a427-ac51384f4123,Music by Prudence,2009,1,1
+215,04fc79af-09ed-4923-ba0d-5d8a98de4aa1,The Secret in Their Eyes,2009,1,1
+216,0f9cbc5c-e694-4214-984f-976af0386a0d,The Cove,2009,1,1
+217,7ccf4fb8-04b2-4dfb-84e6-d5d01571fe54,The New Tenants,2009,1,1
+218,276b3354-f0b3-4bc0-994e-57cbe6f2a80b,Logorama,2009,1,1
+219,68f7d7f2-1237-4e48-8776-6ebf9e5f1c0f,Slumdog Millionaire,2008,8,10
+220,a3eb6710-7aee-40ab-a430-d65059a39d3f,The Curious Case of Benjamin Button,2008,3,13
+221,8b21d8cf-e159-4515-b5a9-4c9e8d1dce7e,Milk,2008,2,8
+222,c09f70bb-835c-44c2-852e-3abdcd727408,The Dark Knight,2008,2,8
+223,b99ab61c-3dc1-4061-b318-6f345b1ae67f,WALL-E,2008,1,6
+224,157d74a6-ac45-41e4-b5d3-7098133e9579,The Reader,2008,1,5
+225,39702fa1-74db-4c1a-bbae-968b367f1fb5,The Duchess,2008,1,2
+226,750e221d-db3c-42b3-81ab-e04ee0af0da0,Departures,2008,1,1
+227,f28fd6b2-5662-48f6-bf26-56a2b14ce4d1,Vicky Cristina Barcelona,2008,1,1
+228,0e97791a-440b-414e-8c0b-4bc23abc1089,Smile Pinki,2008,1,1
+229,d6b749c3-13b9-41dd-9789-a25a2cec2f5d,Man on Wire,2008,1,1
+230,d75b2bef-4342-4d73-b056-f131d3beed1d,Toyland,2008,1,1
+231,8f0886fe-94a3-448c-a352-f0668dffacd6,La Maison en Petits Cubes,2008,1,1
+232,6a86fda5-15a2-49d2-bf6a-5b9eb8702c89,No Country for Old Men,2007,4,8
+233,124f773f-e50b-4f36-af0e-8d3bfc523abb,The Bourne Ultimatum,2007,3,3
+234,7eb4eed6-4863-473b-b405-7d49e8c3c471,There Will Be Blood,2007,2,8
+235,e767d252-ac1e-4809-935f-a098210d5736,La Vie en rose,2007,2,3
+236,fa85ab22-eb64-4dfd-b82c-2da31ab86b74,Atonement,2007,1,7
+237,f3010136-9485-4831-8001-a2e1659561aa,Michael Clayton,2007,1,7
+238,6055d9ce-a577-4853-b769-dc33165b2eb9,Ratatouille,2007,1,5
+239,da85f496-c29f-4097-97de-72b83cd45924,Juno,2007,1,4
+240,a95b1af9-f399-488e-b327-a49f3c2c2818,Sweeney Todd: The Demon Barber of Fleet Street,2007,1,3
+241,223c46a1-3052-4701-a8b1-35973e5d7d45,The Golden Compass,2007,1,2
+242,72d822e9-1424-4ee9-99aa-eafd23e6c310,Elizabeth: The Golden Age,2007,1,2
+243,48f64305-6f48-4019-9485-2832e4c06ba0,Taxi to the Dark Side,2007,1,1
+244,7f6603f6-0453-47b5-bdc5-c462ffde89bb,Peter & the Wolf,2007,1,1
+245,d44c3cfa-5dc3-4b9b-9cab-939f75c1a044,Once,2007,1,1
+246,bd951c80-640e-49e3-abed-0a330c98e7ee,Le Mozart des pickpockets,2007,1,1
+247,fd12310a-8b41-4d64-b389-28b32c59c564,The Counterfeiters (Die Fälscher),2007,1,1
+248,94b44fda-eafc-4e8d-87cf-672f7f2b2ba2,Freeheld,2007,1,1
+249,6e538305-f62c-40fb-87a8-ea355d04ee4e,The Departed,2006,4,5
+250,3d2a7fe9-f75c-4943-877c-3ecf4997050c,Pan's Labyrinth (El laberinto del fauno),2006,3,6
+251,c221ee45-a097-4b46-8edd-3b8c882c02df,Dreamgirls,2006,2,8
+252,1dbc9c54-1291-458d-b215-9d1b8107283c,Little Miss Sunshine,2006,2,4
+253,0e3c0de7-7554-42f5-9d10-b2729c6ce8cf,An Inconvenient Truth,2006,2,2
+254,ab7ac4f2-7dfa-4b32-bcb2-48f3eab50b29,Babel,2006,1,7
+255,6f9b5747-29a1-44dd-a728-b4ab1c44da53,The Queen,2006,1,6
+256,ae1c3ceb-6c73-4fe7-9be3-5b07ce6d1f83,Letters from Iwo Jima,2006,1,4
+257,43730017-cc29-4d60-85d0-e4abd9f5add4,Pirates of the Caribbean: Dead Man's Chest,2006,1,4
+258,ec7e6df3-4b77-48ec-9ec5-3bfa32cc910b,The Danish Poet,2006,1,1
+259,37de89b8-c120-406b-9f7b-43bd74d344ea,Happy Feet,2006,1,1
+260,8fe2be4c-291f-406e-9b36-cb9d0b6cb2dc,The Last King of Scotland,2006,1,1
+261,ce65f1f3-4ebe-439a-93e6-4c2fc1902c52,The Lives of Others (Das Leben der Anderen),2006,1,1
+262,accf4cf6-452f-4a3c-871e-1f2dd49c80c1,Marie Antoinette,2006,1,1
+263,d4881475-5f3c-47a5-bbd8-f741088e869a,West Bank Story,2006,1,1
+264,163d3651-6a46-4e14-a506-e5872e2e0918,The Blood of Yingzhou District,2006,1,1
+265,ea01d497-2c83-472c-aada-86b43f96e3bb,Crash,2005,3,6
+266,9513f8fb-fefb-49b1-90f4-3492620debb9,Brokeback Mountain,2005,3,8
+267,6b791652-25e0-45d1-8bbf-15d51801d841,Memoirs of a Geisha,2005,3,6
+268,fbb1cda5-5e84-45a5-9f4a-18a840d751a9,King Kong,2005,3,4
+269,2f5642f7-e954-43a2-be3d-5b03ebcc7fd9,Capote,2005,1,5
+270,d53df3da-1d08-4118-a7f4-e01838586817,Walk the Line,2005,1,5
+271,aeb66e87-5748-4a4a-8dbd-6d2c503ade12,The Constant Gardener,2005,1,4
+272,85990ee9-7385-4cdf-815b-1988785bb45c,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,1,3
+273,67625b94-65d8-4689-bf1f-679aec62fc29,Hustle & Flow,2005,1,2
+274,ce4a34e1-1d09-40c2-b822-6be29e4213cb,Syriana,2005,1,2
+275,3c1e4347-6854-46e6-be79-9cb714867cc7,March of the Penguins (La Marche de l'empereur),2005,1,1
+276,119f5713-130c-4f79-814e-4197b8acce18,Six Shooter,2005,1,1
+277,77a6f5e5-2605-4cb2-bde0-523efd28c16f,The Moon and the Son: An Imagined Conversation,2005,1,1
+278,be9881e0-bc08-4944-89fb-5508c5ae4cd6,A Note of Triumph: The Golden Age of Norman Corwin,2005,1,1
+279,4a153c1a-c4b8-45a9-83fa-b838c5d3c4fd,Tsotsi,2005,1,1
+280,538cf264-89e1-4299-b88a-ffa9bd482e0b,Wallace & Gromit: The Curse of the Were-Rabbit,2005,1,1
+281,2553e290-327d-47f4-a9df-1ee069743fdb,Million Dollar Baby,2004,4,7
+282,57e4783d-9be5-46dc-823f-2862b2a62ed1,The Aviator,2004,5,11
+283,e46d129f-3154-4cdb-b0e9-be7ef1b994d6,Ray,2004,2,6
+284,5149ca40-6bbd-4f48-9c08-8e907d80af70,The Incredibles,2004,2,4
+285,4fd9dfdc-071b-44da-a16d-a223835a11ac,Finding Neverland,2004,1,7
+286,3bbd51fc-b7f3-46d5-ad00-746e20e3e348,Sideways,2004,1,5
+287,debf4854-1e10-4ddc-8e58-b375356780e4,Lemony Snicket's A Series of Unfortunate Events,2004,1,4
+288,905628ce-9b47-4ecd-b9a6-0baf061a6f02,Spider-Man 2,2004,1,3
+289,5bfc2654-7852-4a33-9ea2-b5a832a7ef72,Eternal Sunshine of the Spotless Mind,2004,1,2
+290,3bdd251d-fc6e-4022-805c-3ea732ce12b7,The Motorcycle Diaries,2004,1,2
+291,cbfb988c-9e76-4c80-ba37-382e15b2c4b9,The Sea Inside,2004,1,2
+292,2f49f9b7-0e6a-43d5-b5e3-c3ede769bd4c,Born into Brothels,2004,1,1
+293,275acb62-acca-4362-88b2-8c323c071db1,Mighty Times: The Children's March,2004,1,1
+294,538278c8-a4c8-43c8-8542-f97c9e17165f,Wasp,2004,1,1
+295,f751eab9-323a-4111-a6a4-a43d79394981,Ryan,2004,1,1
+296,9133d014-6f35-4ea5-a15d-f6f777b543ae,The Lord of the Rings: The Return of the King,2003,11,11
+297,7eae7836-ffa2-421c-80b6-76d6a4a5cac6,Master and Commander: The Far Side of the World,2003,2,10
+298,e8b8d5dd-e54a-4554-a8aa-edb29814c828,Mystic River,2003,2,6
+299,ae0b8c81-5ea6-4b99-abe3-d858ed6ae07f,Cold Mountain,2003,1,7
+300,05fcb586-b263-4403-b963-95c4d9b06e96,Lost in Translation,2003,1,4
+301,ffed0289-68f5-49c2-b90f-6e2cd83af0a8,Finding Nemo,2003,1,4
+302,f19da0ee-c557-4d28-8145-573402fa6a39,The Barbarian Invasions,2003,1,2
+303,71f99b03-0255-4531-847b-beb640890091,Two Soldiers,2003,1,1
+304,166e5f60-8d00-4043-b6b5-6ce26fc9ff76,Monster,2003,1,1
+305,78136867-84eb-420c-999b-a2de478219ad,Harvie Krumpet,2003,1,1
+306,aa1aef7a-8700-4051-b863-cc6ae5f17764,Chernobyl Heart,2003,1,1
+307,067bb0e5-861a-4509-befb-85655aeaa821,The Fog of War,2003,1,1
+308,4df22c11-369c-456c-9c25-b9ca7a2a0519,Chicago,2002,6,13
+309,cb5a92ad-6a49-4594-ab85-ae76fcee3b56,The Pianist,2002,3,7
+310,d803aebf-5942-4289-acad-6b63a1a1cab7,The Lord of the Rings: The Two Towers,2002,2,6
+311,4f5d14b9-0d7b-40d4-bea0-9a40a6f1fbde,Frida,2002,2,6
+312,c280e5e6-ecf0-4e96-ad35-3b0a299a6661,The Hours,2002,1,9
+313,5adba51d-790f-4c92-a0ab-7f89abaac70c,Road to Perdition,2002,1,6
+314,e610ecbd-8229-445f-8058-917a135484a3,Adaptation,2002,1,4
+315,7a955eb7-7075-43a4-acbb-d29c0a6dfabc,Talk to Her (Hable con ella),2002,1,2
+316,b865946b-91bc-4ded-b94b-62aad0f127bb,This Charming Man (Der Er En Yndig Mand),2002,1,1
+317,63a5a10a-ff71-4c93-a793-c80c14067a71,Spirited Away,2002,1,1
+318,3465f16b-6ec3-4407-986d-83113cc34ba3,Nowhere in Africa (Nirgendwo in Afrika),2002,1,1
+319,72ffb18e-c9bc-4e51-bade-d43111c98d10,The ChubbChubbs!,2002,1,1
+320,ed4193a1-4ab5-4a25-9c06-c12fea63da7e,Twin Towers,2002,1,1
+321,8981c52d-d6e8-4055-90d8-02e83595eba0,Bowling for Columbine,2002,1,1
+322,1217602c-8202-42bf-b1ed-f4e4ef9283f9,8 Mile,2002,1,1
+323,cbe4ca7f-31aa-4d35-b384-f0aea85937ec,A Beautiful Mind,2001,4,8
+324,ffebef4f-85d4-4ab3-94f4-03c2ea01ec76,The Lord of the Rings: The Fellowship of the Ring,2001,4,13
+325,028bfd0c-fea8-4710-bc9b-f79092b2d715,Moulin Rouge!,2001,2,8
+326,8f747fa0-0af6-43dd-9d60-e7618c0beed1,Black Hawk Down,2001,2,4
+327,de02bde5-231f-44ee-8f1c-c3b362b8a513,Gosford Park,2001,1,7
+328,9c2d18f2-b284-4d44-be3b-7dea8610873b,"Monsters, Inc.",2001,1,4
+329,ed9c2c76-a711-4f86-88a7-d2a7db9bd3a6,Pearl Harbor,2001,1,4
+330,5b32a297-579c-4e35-b64f-bb08916ad4fc,Iris,2001,1,3
+331,0545dfa6-813f-4994-8c82-ca4b30d3a41b,Shrek,2001,1,2
+332,e49de9d5-67c6-4ec0-8093-017e2ad6ec0c,Training Day,2001,1,2
+333,154c41a8-5784-4613-9e78-98be378491e7,Monster's Ball,2001,1,2
+334,5874f199-1890-4131-ba5f-113b322a1df3,Thoth,2001,1,1
+335,110d8927-2382-48bd-a4fa-7ee4563b3948,For the Birds,2001,1,1
+336,c45cf2c1-2847-4545-8f2d-c8ec7f661ee8,No Man's Land,2001,1,1
+337,3f359dd5-0225-4939-850b-d0ab9d39f6d5,Murder on a Sunday Morning (Un coupable idéal),2001,1,1
+338,d6e8152f-f051-40f0-8563-0d9173c5f76d,The Accountant,2001,1,1
+339,c06ced45-0011-45f6-9cf9-7b9585702e3e,Gladiator,2000,5,12
+340,6acc71ef-65b9-4a38-9f9d-b49260041216,"Crouching Tiger, Hidden Dragon",2000,4,10
+341,6de5a22e-9e73-411d-853d-1d0de5820ad9,Traffic,2000,4,5
+342,80f049a3-0711-4ed2-b6de-7eea8c30dfa4,Erin Brockovich,2000,1,5
+343,e93b4f21-004a-4cd6-a79b-17c13be3a348,Almost Famous,2000,1,4
+344,80f8b3e2-7b15-4e1c-9aac-5f6ff5f05ba7,Wonder Boys,2000,1,3
+345,4945effd-d4f1-4ea5-8ab6-d6dc8be77123,How the Grinch Stole Christmas,2000,1,3
+346,91612c9a-31a7-4931-b8ac-7195e7a67cc6,U-571,2000,1,2
+347,3d45e256-5948-4b8b-a610-f4ccfc1a358d,Pollock,2000,1,2
+348,c49c84d5-17a1-40fd-8831-7b8e40a77ac7,Father and Daughter,2000,1,1
+349,42db85ac-3a56-4b30-821c-c7c5ab45d76c,Into the Arms of Strangers: Stories of the Kindertransport,2000,1,1
+350,67616337-d56a-49f1-9a36-87c7d7873918,Quiero ser (I want to be...),2000,1,1
+351,9dfb1dd2-b92e-4997-9009-f9d8b517c0ff,Big Mama,2000,1,1
+352,4476ab25-5da2-4bbb-858e-fcb67eab89ae,American Beauty,1999,5,8
+353,27a3a4e7-d675-4b9b-b38a-f01a25b29e6d,The Matrix,1999,4,4
+354,4e6e8817-2a66-425d-aeca-20e399e937e6,The Cider House Rules,1999,2,7
+355,7bdf169d-0826-40e2-8e8d-cfe2693b7a66,Topsy-Turvy,1999,2,4
+356,7c037a17-1745-4ce9-899d-a2dbf5dad4f9,Sleepy Hollow,1999,1,3
+357,02f994db-bffc-41cb-aebf-3cd7c36a1860,Boys Don't Cry,1999,1,2
+358,d307821d-00fc-475a-bb9e-2adcfae443a8,Tarzan,1999,1,1
+359,c6ad94d8-81f7-4472-a15d-c7f2dd509e40,One Day in September,1999,1,1
+360,8ead4304-8716-4abc-8f5c-26b17dd8dc93,The Red Violin (Le violon rouge),1999,1,1
+361,fcb29808-b3f3-4355-93a8-da2812e41f11,The Old Man and the Sea,1999,1,1
+362,2c31f2b5-8b6e-4c3a-b96c-1f4fb6e64b57,My Mother Dreams the Satan's Disciples in New York,1999,1,1
+363,88a8fe8f-2dee-4482-8cd4-c61b3455bb81,King Gimp,1999,1,1
+364,8c75b7a8-3a07-434c-b2ca-8240b0dacfab,"Girl, Interrupted",1999,1,1
+365,0799e1dd-8abc-4054-ab7c-25499499cedd,All About My Mother (Todo sobre mi madre),1999,1,1
+366,83927793-356d-48ae-8093-8109e7d40a8d,Shakespeare in Love,1998,7,13
+367,bb674dcc-f050-4773-8901-91ebfd6aadf0,Saving Private Ryan,1998,5,11
+368,5b357e85-8d47-4595-8d38-29c97189a0eb,Life Is Beautiful (La vita è bella),1998,3,7
+369,0053053e-d767-4e74-b2fc-d82621a7da84,Elizabeth,1998,1,7
+370,d3de4f68-ae72-4757-9b1f-8cb66a84b4da,Gods and Monsters,1998,1,3
+371,da32678d-efc5-4307-bd86-51f786b4923b,The Prince of Egypt,1998,1,2
+372,0c51b49a-a040-48d4-8284-6d340980e195,Affliction,1998,1,2
+373,cebe4b88-3928-4794-9a92-0cb922f46537,What Dreams May Come,1998,1,2
+374,71b66694-3803-44a2-9431-8af76e960a25,The Personals,1998,1,1
+375,f1215def-78b4-4d26-adcb-a1fa873954de,The Last Days,1998,1,1
+376,cbea7a38-1f41-42d7-9f7f-138c56607b59,Election Night (Valgaften),1998,1,1
+377,bc669334-f61a-4ece-a9f5-351657e3d316,Bunny,1998,1,1
+378,7cec613b-67af-4171-b302-8391bb2e3e35,Titanic,1997,11,14
+379,f7b852f3-50b9-476b-a538-a9d1a62cc17c,Good Will Hunting,1997,2,9
+380,4742d456-4f6b-4022-a62d-5f5538693050,L.A. Confidential,1997,2,9
+381,c8326d6c-01c5-44a5-ad46-5b76ef102eee,As Good as It Gets,1997,2,7
+382,f72bd0a9-e5d0-41ac-a47a-944a4693681c,The Full Monty,1997,1,4
+383,e3581a46-a198-4104-ac13-9a84a81ce6d6,Men in Black,1997,1,3
+384,7795788b-e807-44da-8ea3-9d0e3654748f,Visas and Virtue,1997,1,1
+385,655bd6b1-5d16-4456-b863-6315165449d7,Character (Karakter),1997,1,1
+386,f9c6b595-710b-4107-9ac4-586e1c245249,Geri's Game,1997,1,1
+387,6250c032-a037-47c5-8467-d8b8ee51550e,A Story of Healing,1997,1,1
+388,0cd3acb4-2262-47ee-9b33-3b2a8d44abe4,The Long Way Home,1997,1,1
+389,03fe3b83-a571-4ea3-9bf5-526c5e6fcf16,The English Patient,1996,9,12
+390,7d465a69-ab6c-408b-b448-e306e431e7fa,Fargo,1996,2,7
+391,fa4604e9-1357-43fa-ae3a-6ff7b854ca08,Shine,1996,1,7
+392,6387886f-1f6d-4fd7-94e6-96de161a8beb,Evita,1996,1,5
+393,f98a6c2b-d3b4-4877-8640-cd2dbe675617,Jerry Maguire,1996,1,5
+394,a36e5ba7-bdf8-4c44-a601-a56576eb761c,Independence Day,1996,1,2
+395,80255c6a-10b6-4cc4-8a37-0e49e6ac78f0,Emma,1996,1,2
+396,d49ba2a8-0105-4e2d-896b-dde3ef7a9097,Sling Blade,1996,1,2
+397,388383c9-ac92-41c4-ade8-882606252980,The Ghost and the Darkness,1996,1,1
+398,abd86fc1-ed54-4127-9a67-a352e0ca0c8c,Kolya,1996,1,1
+399,11fd98a5-3219-4343-89d7-4ca7d2812c9b,The Nutty Professor,1996,1,1
+400,a971edb2-75cd-40d1-a734-a1c265bb8e6f,Quest,1996,1,1
+401,fb43e7a8-4626-4610-b893-609b7c847fd2,When We Were Kings,1996,1,1
+402,043575a4-e8df-46c0-b528-845978979b39,Breathing Lessons: The Life and Work of Mark O'Brien,1996,1,1
+403,73e03a1d-1f5b-4f33-bdcb-7325ce091618,Dear Diary,1996,1,1
+404,8f99e734-6816-4917-aee1-162609915442,Braveheart,1995,5,10
+405,b582d5d3-6ecd-4c71-935c-9c6af9054bed,Apollo 13,1995,2,9
+406,c4f91a09-ee63-49d4-918f-51f8b88dc678,Pocahontas,1995,2,2
+407,a65d16d2-d493-4396-905b-27a9f41383df,The Usual Suspects,1995,2,2
+408,9a47b1e7-61df-4c95-940d-dc36e7331645,Restoration,1995,2,2
+409,8666825c-4e21-49d5-a4a5-610d49a22d86,Babe,1995,1,7
+410,ae7f8788-dc4f-4628-86ce-2cb1d0d61526,Sense and Sensibility,1995,1,7
+411,9a6f6297-12b9-46c4-9824-c7a620628320,Il Postino: The Postman,1995,1,5
+412,5d61098a-ee75-4ca3-bef9-898ae68f1be4,Dead Man Walking,1995,1,4
+413,04dea809-4069-488c-82db-f87f47988bf9,Leaving Las Vegas,1995,1,4
+414,1a1bffbe-32a9-4c2b-abca-383caf40deb7,Mighty Aphrodite,1995,1,2
+415,471d0ce9-a26f-48d7-8697-3f5c785f1e7d,Anne Frank Remembered,1995,1,1
+416,91123f4c-bc01-4d8d-8445-f8b4a63c547b,A Close Shave,1995,1,1
+417,db54260d-407c-4898-abff-072808a1d67b,Lieberman in Love,1995,1,1
+418,d0b3d980-c9e2-4672-b670-b650e9013791,One Survivor Remembers,1995,1,1
+419,d81eab31-aa72-4cd4-b295-6efe7160ef1d,Antonia's Line (Antonia),1995,1,1
+420,399761f1-6e1c-448f-ab56-9d7b983c2573,Toy Story,1995,0 (1),3
+421,5d964957-894c-404f-99e4-9cc6c52143e0,Forrest Gump,1994,6,13
+422,1fdb7046-be2d-4cd0-a0f4-7fb6925a2786,The Lion King,1994,2,4
+423,d72f2f19-72db-48d0-aa27-83b5ccac6d87,Speed,1994,2,3
+424,295da011-d22f-410c-a689-f613cb88aebb,Ed Wood,1994,2,2
+425,44f22f00-8138-4890-8cc2-b0edd57a74e6,Pulp Fiction,1994,1,7
+426,2adc6fba-c089-403d-ad3f-01d95d0f0fbf,Bullets Over Broadway,1994,1,7
+427,5ef1be32-a206-40b3-a7d8-d7acfb63d196,The Madness of King George,1994,1,4
+428,2dcbe66d-badf-416d-a623-321101fc2662,Legends of the Fall,1994,1,3
+429,bfb50f50-f938-4fba-acb5-2f5012b22bd5,A Time for Justice,1994,1,1
+430,fa810abe-a448-4dd3-b3e5-f9f2743dcb04,Franz Kafka's It's a Wonderful Life,1994,1,1
+431,327af767-653d-47e7-97a6-64c50017e7d3,Maya Lin: A Strong Clear Vision,1994,1,1
+432,cbf2f514-60a0-4eb1-86e9-5a048bc4cb44,Burnt by the Sun (Utomlyonnye solntsem),1994,1,1
+433,6b37b7e3-84fb-4903-88d5-8c11a580e228,Trevor,1994,1,1
+434,a2a498d1-c3d4-4788-970a-65e950d0aa75,"The Adventures of Priscilla, Queen of the Desert",1994,1,1
+435,2c87b349-0539-4adb-85b8-ef196640171c,Bob's Birthday,1994,1,1
+436,82b2f589-06d8-45fb-8e8e-ac6edfa1b0e7,Blue Sky,1994,1,1
+437,9641dbf8-44c2-4570-a883-81639f43dc76,Schindler's List,1993,7,12
+438,ccbb291b-f714-4dc5-8e4c-79b360d4a6f6,The Piano,1993,3,8
+439,cdf6d80e-0bef-442e-a071-52146611a11d,Jurassic Park,1993,3,3
+440,01fe249f-eb9d-4381-9ba9-dc799139d203,Philadelphia,1993,2,5
+441,88aea86c-906f-42d0-a2ab-ce3dc9a9db79,The Fugitive,1993,1,7
+442,05819525-22f9-454e-95b6-c2a58704f3b4,The Age of Innocence,1993,1,5
+443,b4d69c74-c9ba-433e-aed6-07c38f68e642,The Wrong Trousers,1993,1,1
+444,eb30e2fd-27f0-41eb-baab-aa29ac1f0be5,Belle Epoque (The Beautiful Era),1993,1,1
+445,af03ca8d-1f93-4be2-8b24-5133d47691f1,I Am a Promise: The Children of Stanton Elementary School,1993,1,1
+446,12cce77c-70bb-4c94-b1b0-40e5dcfcffa8,Mrs. Doubtfire,1993,1,1
+447,b697f2e1-4a43-441d-87f1-796cdadf1403,Black Rider (Schwarzfahrer),1993,1,1
+448,44957624-e7e9-42ea-92af-641bd8b853b8,Defending Our Lives,1993,1,1
+449,63edb5a4-04e9-4fc8-b0a1-e8f47fbbceb6,Unforgiven,1992,4,9
+450,b0de33f0-1ad3-425f-be86-80991b2ce6b6,Howards End,1992,3,9
+451,a7807598-2922-487e-8f44-9721fc1d4ab8,Bram Stoker's Dracula,1992,3,4
+452,7516d2d6-e468-4524-9b2f-233bec53f766,Aladdin,1992,2,5
+453,ee8b6f6a-2fe9-46ca-9f51-5496bf93db05,The Crying Game,1992,1,6
+454,f0d88c2b-184e-42aa-87fc-b3854aa092d3,Scent of a Woman,1992,1,4
+455,899bf7da-fd27-44e0-be38-b6c1303d9982,A River Runs Through It,1992,1,3
+456,3d8b63fd-3098-4f56-86c3-b53cecb87ebd,Indochine,1992,1,2
+457,696cb345-0d89-49ab-9d78-94902c928ff4,My Cousin Vinny,1992,1,1
+458,40852847-1f1d-4d73-a73b-67903682b5ca,The Panama Deception,1992,1,1
+459,92a2194f-e9a7-4534-9726-9d27bf2cb9bd,Educating Peter,1992,1,1
+460,a1809fb1-74b8-4241-a1b0-f0677d83ce73,The Last of the Mohicans,1992,1,1
+461,7c487bc4-2d53-46fb-ba3c-0af6999bc3ea,Death Becomes Her,1992,1,1
+462,e5bbc567-dc4d-4ea8-8a6b-a0d9d0f955a9,Omnibus,1992,1,1
+463,f0b63558-41fa-4a66-982d-481fe722dcd1,Mona Lisa Descending a Staircase,1992,1,1
+464,92997d48-ca9c-49f1-bef0-acc897ea0bed,The Silence of the Lambs,1991,5,7
+465,1d4e7888-bd4a-47ed-91f5-748e51f6915b,Terminator 2: Judgment Day,1991,4,6
+466,74b112e8-adf1-4cdb-b46e-f1e5463c3530,Bugsy,1991,2,10
+467,9d1cbab6-d145-4eb8-bc74-1a6d052ae24c,JFK,1991,2,8
+468,31ab8cb6-a868-41f1-af76-9ad70dcd3a97,Beauty and the Beast,1991,2,6
+469,5390350d-d516-4dea-82b4-fa81bd8e9f38,Thelma & Louise,1991,1,6
+470,725d0ae0-efc0-46fd-ab07-996c35d1f677,The Fisher King,1991,1,5
+471,79e2b3f4-cebe-4216-b889-579f0dfdc34a,In the Shadow of the Stars,1991,1,1
+472,935a7193-e441-43e8-be96-26bcc28b6e15,Manipulation,1991,1,1
+473,08ae71ab-1744-4446-8ca4-48748c286538,Mediterraneo,1991,1,1
+474,53eb60d6-6ccb-4535-bcd6-575737c4705b,Session Man,1991,1,1
+475,c76ea589-1356-4dc6-bac2-07e15fa96111,City Slickers,1991,1,1
+476,c38e07c5-7cee-4e5e-ac3f-42d437852dec,"Deadly Deception: General Electric, Nuclear Weapons and Our Environment",1991,1,1
+477,7adace66-b781-425b-a4ee-b6e6c97bf840,Dances with Wolves,1990,7,12
+478,33b02274-09b8-4889-9882-717f9834efc3,Dick Tracy,1990,3,7
+479,f9dfee34-3969-434e-ac6d-01ee35e2d16c,Ghost,1990,2,5
+480,bf81a8fe-7f3a-4a11-8184-2c0796157d45,Goodfellas,1990,1,6
+481,93dbcd9d-7bb6-450e-9b25-a88947d38d35,The Hunt for Red October,1990,1,3
+482,6f75ad28-61b4-4d3a-bba4-81e19a05b92c,Reversal of Fortune,1990,1,3
+483,e7a842ef-c5b3-4484-b0ea-b507a9f2d85e,Cyrano de Bergerac,1990,1,5
+484,80c6ed95-65f8-474f-963a-f2390bf35eae,American Dream,1990,1,1
+485,11befd7f-14ad-4dd7-8d18-2f4c9f51b19e,Journey of Hope (Reise der Hoffnung),1990,1,1
+486,5c5a2fcd-ec3c-4a7f-bb27-a30ab3bc2915,Days of Waiting,1990,1,1
+487,a4d78512-bc4d-4796-86a1-d9a8f567a475,Creature Comforts,1990,1,1
+488,09495fda-f2ec-4c34-812f-b514d9eedc71,The Lunch Date,1990,1,1
+489,9f2d6a98-ad8b-4491-b1e7-d845d1b3833a,Misery,1990,1,1
+490,e88b8082-7160-48e3-9955-794cb0cdd059,Total Recall,1990,0 (1),2
+491,2edec78f-da68-47ed-af5f-d9fb9bd9c9e6,Driving Miss Daisy,1989,4,9
+492,03332ca4-7732-4cf1-832b-46f09e03c39b,Glory,1989,3,5
+493,3b72042f-c0cb-4d8a-99ff-1689c5d567ae,Born on the Fourth of July,1989,2,8
+494,6c1e4298-f2ec-4bb3-916a-22e838b40188,My Left Foot,1989,2,5
+495,15502a37-12ca-4827-9a47-3c057aa974f4,The Little Mermaid,1989,2,3
+496,c824a447-7f8a-4273-ae07-b2de42482d09,Dead Poets Society,1989,1,4
+497,7b65a0e5-cd47-4675-9ec1-8b30e12852a6,The Abyss,1989,1,4
+498,5e8a7062-9859-41a0-ab43-d8581c283a7b,Indiana Jones and the Last Crusade,1989,1,3
+499,4f454d15-1caf-4120-b811-e62bc480986f,Henry V,1989,1,3
+500,e1282e84-2ff2-4dd8-b333-fcaac215cc94,The Johnstown Flood,1989,1,1
+501,366b3b8d-393a-42a1-afa0-e8f3a287c1b1,Common Threads: Stories from the Quilt,1989,1,1
+502,8ed940d2-c99a-4c64-889a-344e7fd26263,Cinema Paradiso,1989,1,1
+503,92f69fcf-988c-4cf9-8ed4-60ea94b54195,Work Experience,1989,1,1
+504,3ad6660a-0d09-4cf9-8dc3-320af662bb9d,Batman,1989,1,1
+505,20908ad6-9045-4c9d-a7f1-26921f962d05,Balance,1989,1,1
+506,b77f62b2-e226-4b49-a3e3-13cb0dbc2890,Rain Man,1988,4,8
+507,4d8ac552-b7bb-4bec-a594-4018c8b1f8c8,Dangerous Liaisons,1988,3,7
+508,91203188-15a0-4636-a3f8-5e5297e450c2,Who Framed Roger Rabbit,1988,3 (1),6
+509,9fd5b2b6-2e59-4042-967d-ff1a89e025e4,Mississippi Burning,1988,1,7
+510,0b978395-d63c-4058-9170-80c21ff9da46,Working Girl,1988,1,6
+511,d9775cb0-4dcc-4dee-9718-dc5c3842915f,The Accidental Tourist,1988,1,4
+512,bf4aa64b-97f3-4063-b1eb-d2018bce4d19,A Fish Called Wanda,1988,1,3
+513,2dbebf32-3700-452d-a230-fe2cec9aaa5e,Pelle the Conqueror (Pelle erobreren),1988,1,2
+514,bb44ec5f-0ed7-4488-ae56-c0f375cae854,The Accused,1988,1,1
+515,3608c878-ae17-4e65-901a-564550086b6f,The Appointments of Dennis Jennings,1988,1,1
+516,4bab9bdb-95e5-4dd7-9af6-add3b0b7a864,Beetlejuice,1988,1,1
+517,4b6e3e34-0737-4f66-877a-52c269ebb7f4,Bird,1988,1,1
+518,e7a05cdb-c15a-41e6-a8ee-770a77bf1717,Hôtel Terminus: The Life and Times of Klaus Barbie,1988,1,1
+519,b4d245c8-afd0-4a53-8bb7-d12329fc2aba,The Milagro Beanfield War,1988,1,1
+520,35d929e2-d96f-46a5-bd3e-f5aaaeef7a54,Tin Toy,1988,1,1
+521,ed5764c3-b88c-412a-a78a-05cbcea0e4ca,You Don't Have to Die,1988,1,1
+522,39ca190a-bcbe-4348-a22b-d671e43f2a21,The Last Emperor,1987,9,9
+523,ed29e534-8958-4754-96c3-0ca0444fd96e,Moonstruck,1987,3,6
+524,92376438-b936-4fed-a9a9-e88d224bf9a2,The Untouchables,1987,1,4
+525,acb7af75-b831-4e7c-ad7f-9a5eb1f49c7a,Babette's Feast (Babettes gæstebud),1987,1,1
+526,06e86cd7-ba89-46e2-8dd3-845c21225195,Dirty Dancing,1987,1,1
+527,80c7ec41-7bdc-407d-8edb-83b4f9efc1e1,Harry and the Hendersons,1987,1,1
+528,fd3a5ed8-4371-4339-916e-dd2f773534b4,Innerspace,1987,1,1
+529,e601a89c-c707-45a2-af28-e51fca12ca47,The Man Who Planted Trees (L' Homme qui plantait des arbres),1987,1,1
+530,03db2f2b-55b7-4e2f-86f0-7267fc85cb3c,Ray's Male Heterosexual Dance Hall,1987,1,1
+531,b9e43759-8e69-4b1e-a1d2-37684b578c83,The Ten-Year Lunch,1987,1,1
+532,aeae967d-dec7-4c64-9e92-a0c8d8c8844d,Wall Street,1987,1,1
+533,4da592bc-1f26-4094-bf09-93d56ec44363,Young at Heart,1987,1,1
+534,ad1b169c-0ac5-4bc2-b2ab-829ffe79cceb,RoboCop,1987,0 (1),2
+535,dff008ee-6403-4f7f-8a01-092e7175f17c,Platoon,1986,4,8
+536,cca440a0-50de-4a2a-9ad6-c490be4ecc64,A Room with a View,1986,3,8
+537,bf2062b7-078f-4109-b734-eeecc43725fe,Hannah and Her Sisters,1986,3,7
+538,fc97c338-bbd3-450a-b56e-eb1732198e20,Aliens,1986,2,7
+539,354cf772-5f38-49d1-bc0e-a3454a0a0274,The Mission,1986,1,7
+540,75280ac6-b219-4e40-bcf5-9d2a69e750f5,Children of a Lesser God,1986,1,5
+541,3c92cef9-d22d-4bf3-b841-0f9ca9eed215,The Color of Money,1986,1,4
+542,438c5fec-e7e4-4861-a1ee-28d75e1a7d65,Top Gun,1986,1,4
+543,47f82b8c-2941-408e-833e-1767e36991c2,Round Midnight,1986,1,2
+544,d3b74848-1aca-4bac-b915-75e9b4a9612d,Artie Shaw: Time Is All You've Got,1986,1,1
+545,8221f66a-7e81-4b3c-9bb7-0e6d8c360a2c,The Assault (De Aanslag),1986,1,1
+546,dbd03033-b6d0-4e63-b04c-54f54107b631,Down and Out in America,1986,1,1
+547,ce83f2eb-69b1-4998-bad6-473d413e8675,The Fly,1986,1,1
+548,d936df83-493d-4314-a5e4-564493e8059c,A Greek Tragedy,1986,1,1
+549,0750f10e-4eda-46c4-b6ab-b88bf1da8eb7,Precious Images,1986,1,1
+550,da7e086b-aebd-4e65-84ce-d13d0dbd14c6,"Women – for America, for the World",1986,1,1
+551,323b8733-b51c-406b-a47d-6ff98c0ddc37,Out of Africa,1985,7,11
+552,530fc339-a6e0-49e4-934a-ed8f4b03fe71,Witness,1985,2,8
+553,b226d15c-4618-49b8-b710-503c7a96018f,Cocoon,1985,2,2
+554,041dd302-e6a4-4816-8f1b-d436408a4293,Prizzi's Honor,1985,1,8
+555,d04b4aef-d09b-4634-bd4e-fc989c4d8cd5,Back to the Future,1985,1,4
+556,4f4d0a6e-43a2-4321-9d58-f0ac3e57338d,Kiss of the Spider Woman,1985,1,4
+557,581039a5-ab7e-4ff2-8c10-491ff7f1bc34,Ran,1985,1,4
+558,2bb8b733-91cd-4152-8e9d-202dca7dd57a,The Official Story (La Historia Oficial),1985,1,2
+559,93231d13-af76-4873-8ba4-0f6d9ec4c01a,The Trip to Bountiful,1985,1,2
+560,6bcd612d-b725-459a-9e86-a70bfced1341,White Nights,1985,1,2
+561,f96f6a20-ce8c-45c0-a08c-07e774cd0e9b,Anna & Bella,1985,1,1
+562,2a6bb2c1-bae2-40a3-ac1a-7b02e52e1b3e,Broken Rainbow,1985,1,1
+563,6494b0cf-9b4f-4767-b34e-ec726b9ae33b,Mask,1985,1,1
+564,bacbcfde-279a-4230-885e-b04b55b6dd2b,Molly's Pilgrim,1985,1,1
+565,09ed7ffb-cbd7-4ae3-9545-e8226658ba51,Witness to War: Dr. Charlie Clements,1985,1,1
+566,32a32d13-36cf-4a55-9d7e-2d47a05706ee,Amadeus,1984,8,11
+567,b1e78f5f-0eb3-4c9a-97bb-4218e569d922,The Killing Fields,1984,3,7
+568,a6141f67-4839-4da9-ab99-eb8914bae66b,A Passage to India,1984,2,11
+569,d90feadd-4244-4e0d-bdee-be2e07990639,Places in the Heart,1984,2,7
+570,8bdfd11d-75fa-4798-b73c-2015de14410d,Indiana Jones and the Temple of Doom,1984,1,2
+571,6119c7e6-0f90-45eb-aca0-1cec67f40d6f,Charade,1984,1,1
+572,7eb76dbc-806d-420a-89e0-870b18bbbc24,Dangerous Moves (La Diagonale du fou),1984,1,1
+573,586c6e9d-e79d-40fb-a37d-6f67ca495822,Purple Rain,1984,1,1
+574,fc669f95-b327-4b02-b856-130efcba0ec7,The Stone Carvers,1984,1,1
+575,9dc8bcf4-10f9-41bb-94e6-06beaf14c531,The Times of Harvey Milk,1984,1,1
+576,6928c2a3-d939-47c5-856b-b58bd0464a4a,Up,1984,1,1
+577,8880fbde-929a-4e58-a0f1-ac7974b31147,The Woman in Red,1984,1,1
+578,0c06e18b-eac4-402d-8a71-2f7d2a3d3ef2,The River,1984,0 (1),4
+579,1a183061-2267-4757-87fa-3916ffdb59c4,Terms of Endearment,1983,5,11
+580,467c6179-e8e0-4e5b-8c51-1b0296842950,The Right Stuff,1983,4,8
+581,bad57174-b05b-4fad-bb43-4930929d8a45,Fanny & Alexander (Fanny och Alexander),1983,4,6
+582,d760f959-5b3b-4942-84de-f532ca2a1b3a,Tender Mercies,1983,2,5
+583,259a2a79-7859-47c5-af2f-abc615cdb763,Yentl,1983,1,5
+584,34a9b8de-7ae7-4d48-be05-6fc4ca30275d,Flashdance,1983,1,4
+585,964f4c17-7911-40c8-9c22-d639dca73a3b,Boys and Girls,1983,1,1
+586,4ba42d89-6ca3-4850-a2e9-39c764830208,Flamenco at 5:15,1983,1,1
+587,88adb305-63b5-4ca9-bc9e-ded50bfe96d8,He Makes Me Feel Like Dancin',1983,1,1
+588,b7066101-f6b3-401c-9271-814d6c60b0ad,Sundae in New York,1983,1,1
+589,78e76e23-9249-4297-be2a-15d770ba3f21,The Year of Living Dangerously,1983,1,1
+590,53973847-7005-4ea6-8c63-80318d35f727,Return of the Jedi,1983,0 (1),4
+591,91a6033a-57c4-4dd8-87d8-c172bd68e27b,Gandhi,1982,8,11
+592,bb5bfa37-35e8-4052-89e7-62d87d09ea48,E.T.: The Extra-Terrestrial,1982,4,9
+593,55350e7b-0114-4868-b210-4b0f1555451e,An Officer and a Gentleman,1982,2,6
+594,c1c8f8ab-99aa-485f-bff8-75e0f3fcd179,Tootsie,1982,1,10
+595,a1f776ce-8be5-4cdf-a541-be88b493585f,Victor/Victoria,1982,1,7
+596,98d583bd-53d3-4cc2-8703-12631d12ea3c,Sophie's Choice,1982,1,5
+597,34d6e015-4b72-42c2-8f61-b9e0e9373b4c,Missing,1982,1,4
+598,551d8e3e-43f7-4a24-b520-b70ef594ed1b,If You Love This Planet,1982,1,1
+599,8f0f0dcf-fc8f-4862-a6ab-ad53ccc3a675,Just Another Missing Kid,1982,1,1[2]
+600,e7d7fbfa-52e5-42a4-b656-0d0e061935ef,A Shocking Accident,1982,1,1
+601,623c6ab2-4f71-4b7e-b7fe-63ac74828bf5,Tango,1982,1,1
+602,24ec5887-b700-4bbe-bcfe-1d5b241ae0f3,To Begin Again (Volver a empezar),1982,1,1
+603,4d0d0198-498a-4049-9130-1f70220acdb9,Quest for Fire,1982,1,1
+604,67dcfc49-0e8f-4f16-b0a0-25e754b44c9b,Chariots of Fire,1981,4,7
+605,f3d577ce-f8fa-41c9-a7e5-0fa4d81eb793,Raiders of the Lost Ark,1981,4 (1),8
+606,94f91bf5-f741-4356-9cb8-2ae1ac8d20db,Reds,1981,3,12
+607,b7b87eb2-4919-40d1-963e-71c787a1c8b6,On Golden Pond,1981,3,10
+608,da5df309-3dc5-4623-89e2-a6207c7cbe1a,Arthur,1981,2,4
+609,9f749421-709e-4955-af78-4cb99cafeee8,An American Werewolf in London,1981,1,1
+610,5c994733-4891-4d48-b86c-23ec400b4fcf,Close Harmony,1981,1,1
+611,16383968-b672-4b50-b8a4-c2df32fdc1df,Crac,1981,1,1
+612,f0730d69-0171-47c5-9b8c-1b44366e4076,Genocide,1981,1,1
+613,12977b91-cb3f-4bae-b221-1848ed245c49,Mephisto,1981,1,1
+614,782237ad-68e5-4683-8ac7-df226e704a4f,Violet,1981,1,1
+615,0107079f-f512-42ab-841b-ab9e77728173,Ordinary People,1980,4,6
+616,4e543135-41ea-47b2-83a0-01bd20af6d33,Tess,1980,3,6
+617,b044d457-2061-45a1-9adc-5815b4d799ff,Raging Bull,1980,2,8
+618,0a0a0a3a-c363-4c10-ace8-8050e8eb368a,Fame,1980,2,6
+619,e28af251-cba8-472a-a588-e5e85778a3c7,Melvin and Howard,1980,2,3
+620,a54ef64d-d4e2-4fd9-a14c-dd312238707d,Coal Miner's Daughter,1980,1,7
+621,54e31a00-34db-4960-8029-35d719564e20,The Empire Strikes Back,1980,1 (1),3
+622,d00580d7-8d52-4b32-ac39-a8a78d59f0be,The Dollar Bottom,1980,1,1
+623,bc76b8a6-2f40-4141-ad0d-c9d9b215b847,The Fly (A Légy),1980,1,1
+624,251f33ff-5200-4c31-b864-896d8f4189ea,From Mao to Mozart: Isaac Stern in China,1980,1,1
+625,0417300d-e196-4c7c-b244-e336bc6b57f3,Karl Hess: Toward Liberty,1980,1,1
+626,af929e38-ad05-4a4d-ac4e-9297ae9ed156,Moscow Does Not Believe in Tears,1980,1,1
+627,f8ebecbd-4a7c-4735-ad3a-291e99e660a3,Kramer vs. Kramer,1979,5,9
+628,74515e35-ff1a-4f5b-bf44-a35fc75fef91,All That Jazz,1979,4,9
+629,416776de-0975-45f9-b521-8a2419044f35,Apocalypse Now,1979,2,8
+630,1a2e7ab2-ab42-4afd-959a-5511665d126d,Norma Rae,1979,2,4
+631,95a4e211-79d7-46a2-9dc7-ba150f5d96c9,Breaking Away,1979,1,5
+632,7b9043d4-84ae-49c3-8664-49f43eed1e47,Alien,1979,1,2
+633,d1dfd36e-6f0a-4c8a-b3f5-b7e03ebfcfad,Being There,1979,1,2
+634,a21341e3-8752-4e76-a88a-9a65766fcea4,A Little Romance,1979,1,2
+635,a46c1902-9652-474d-ba55-ebb12762812a,Best Boy,1979,1,1
+636,7f5684bd-78fa-4c28-83af-4679fe39dbed,Board and Care,1979,1,1
+637,0915aedf-d5dd-4def-9167-72e51db0a207,Every Child,1979,1,1
+638,1154f0e4-38b6-473e-b8a2-73477198725a,Paul Robeson: Tribute to an Artist,1979,1,1
+639,17b0ee65-9667-4855-be5f-ddd836576209,The Tin Drum (Die Blechtrommel),1979,1,1
+640,e7d7baa2-031a-4316-a6a3-eaac635335fe,The Black Stallion,1979,0 (1),2
+641,9d7c8c6f-5f99-43b7-9aa0-14422e8f74b2,The Deer Hunter,1978,5,9
+642,c5d5dcde-7a3e-4c62-967a-bf3a02a9e526,Coming Home,1978,3,8
+643,66b4d981-e8aa-4fc9-a8fc-89a357c928d3,Midnight Express,1978,2,6
+644,cee90f0c-ee70-41cd-a94d-e173760a496d,Heaven Can Wait,1978,1,9
+645,a7a705fd-5cbc-4d51-a80c-7eef29d9d34c,Days of Heaven,1978,1,4
+646,4a01613b-3730-4aed-9adb-248e14b601a2,California Suite,1978,1,3
+647,6b568a95-d05c-4ae6-8105-e09dd97ee7e2,The Buddy Holly Story,1978,1,3
+648,572cf14c-38e5-4b7e-8d34-9567b8902ac3,Death on the Nile,1978,1,1
+649,a7998dda-b791-4ece-8652-768d7d5735c8,The Flight of the Gossamer Condor,1978,1,1
+650,f8029be8-0023-45d4-bd02-dd5d19680bbe,Get Out Your Handkerchiefs (Préparez vos mouchoirs),1978,1,1
+651,9f4e0fc6-4eda-4966-bea1-70d0570b0742,Scared Straight!,1978,1,1
+652,9cee5b27-57e4-4ba0-883b-66c64cd1e9d0,Special Delivery,1978,1,1
+653,31620dd7-739c-4a13-9477-986a7c2d27a4,Teenage Father,1978,1,1
+654,5e801a0a-bc16-4267-a66e-c00ea90b5e99,Thank God It's Friday,1978,1,1
+655,eab97080-1335-4032-9cd6-7e34f0060cea,Superman,1978,0 (1),3
+656,9fb07f61-27c5-4667-8d29-e64555e4544d,Annie Hall,1977,4,5
+657,4cac435a-d354-4e80-97e8-15b9fe266168,Star Wars,1977,6 (1),10
+658,262b5537-92d1-4464-8c7a-9eaf2db88626,Julia,1977,3,11
+659,4dd95b99-3610-40f2-8c38-7b691c4639f2,Close Encounters of the Third Kind,1977,1 (1),8
+660,5334d99e-ba14-4fc5-b423-dffd4543be4e,The Goodbye Girl,1977,1,5
+661,dbeeefba-c09a-479c-91bc-9e20649f0b07,A Little Night Music,1977,1,2
+662,b05096d2-4481-4beb-942a-cfc3bcc18116,Gravity Is My Enemy,1977,1,1
+663,45870d7b-5228-451c-81da-82bd4dee4222,I'll Find a Way,1977,1,1
+664,529808cf-13fd-45fe-9509-541c57607169,Madame Rosa (La Vie devant soi),1977,1,1
+665,21a05821-fa56-4d89-bc56-f4ab74aae628,The Sand Castle (Le Château de sable),1977,1,1
+666,8ddf4ddc-fe0e-4892-8417-0224092138da,Who Are the DeBolts? And Where Did They Get Nineteen Kids?,1977,1,1
+667,f9b7c48a-95c3-4b10-bf99-96205ef8d0e0,You Light Up My Life,1977,1,1
+668,c25f37b2-0555-467e-ad32-f75262868d43,Rocky,1976,3,10
+669,ef4182b5-65bd-4755-8d51-92af9cdd8105,Network,1976,4,10
+670,09aad71e-0dd3-48a2-883e-4d9e88d235f3,All the President's Men,1976,4,8
+671,88882f46-309a-4e5c-836f-d4e0dbcad664,Bound for Glory,1976,2,6
+672,7fa49bf7-5e29-41b5-b964-d51c000d9038,A Star Is Born,1976,1,4
+673,f7764b7f-697a-4052-8192-c762bf71343a,Fellini's Casanova (Il Casanova di Federico Fellini),1976,1,2
+674,5fa1ade7-cffa-4b05-869c-b27c1061f6d2,The Omen,1976,1,2
+675,00347a79-00d7-41ef-95f2-a0ac9226aeab,Black and White in Color (Noirs et blancs en couleur),1976,1,1
+676,90f1a4d7-42f1-4a6f-8b2b-73ab6774a44b,"Harlan County, USA",1976,1,1
+677,aa5df84f-94b5-4b26-94c2-62d0df713415,In the Region of Ice,1976,1,1
+678,b7149e82-b422-4981-8f1b-cd0ffa31fad1,Leisure,1976,1,1
+679,819e7448-89df-4463-a65d-9bb0f7fb0325,Number Our Days,1976,1,1
+680,2fdb98d3-090e-448a-a98c-d825458cd232,King Kong,1976,0 (1),2
+681,921e9954-bde9-4a8f-8bec-6dad4b837a51,Logan's Run,1976,0 (1),2
+682,581c53d4-3b90-435a-b8d1-ea1467fde461,One Flew Over the Cuckoo's Nest,1975,5,9
+683,7a5c5218-e82a-484d-9a9e-a502908dd3f5,Barry Lyndon,1975,4,7
+684,e20aa3db-3e57-40a6-83a3-b47a82feccd0,Jaws,1975,3,4
+685,b59dab72-5d64-4f6b-9d6f-f7cdecad7b3a,Dog Day Afternoon,1975,1,6
+686,58f37e32-3d5e-4f63-8832-dfd016d9156e,Nashville,1975,1,5
+687,fbee4da4-5526-43f9-81d6-0e0649e9ca75,Shampoo,1975,1,4
+688,3bcc6f7a-2a01-48bc-881f-3b66f8201830,The Sunshine Boys,1975,1,4
+689,29153283-cb94-4b3e-bf17-1d2ea88004e0,Angel and Big Joe,1975,1,1
+690,23222f7a-d9b9-4b3b-807b-405b5f1ea451,Dersu Uzala,1975,1,1
+691,536ac022-41a1-4548-9c31-7b19e8b9f43d,The End of the Game,1975,1,1
+692,eddfa47f-5895-4070-ad4d-a4eda20cc4fc,Great (Great (Isambard Kingdom Brunel)),1975,1,1
+693,d9af0aac-1f85-469e-98da-3f719860deb6,The Man Who Skied Down Everest,1975,1,1
+694,5fbce53f-b605-4508-842c-e291f10b9e1a,The Hindenburg,1975,0 (2),3
+695,ea301ad2-30cd-460a-bb08-d86b164d5683,The Godfather: Part II,1974,6,11
+696,f15245a6-7c7c-4292-97e8-27dba9241a67,The Towering Inferno,1974,3,8
+697,a189062a-cb59-40b3-9759-219ca2cf9dee,The Great Gatsby,1974,2,2
+698,2da8843b-b49c-4c9c-8260-943ae77ea8c2,Chinatown,1974,1,11
+699,17d9857c-1601-4824-a174-9aaa3b4de788,Murder on the Orient Express,1974,1,6
+700,9fa4325e-4692-4888-ab32-ffa6a87ba843,Earthquake,1974,1 (1),4
+701,c647b994-613a-49cf-acf4-f59eb148d941,Alice Doesn't Live Here Anymore,1974,1,3
+702,10bf1c11-e9ff-4ff9-a111-aa3234549620,Amarcord,1974,1,3[3]
+703,fc57c44e-bc1a-4efc-b522-464e8e5cf89c,Harry and Tonto,1974,1,2
+704,6fedd0c5-1702-4abd-940a-f7f1bc56df6d,Closed Mondays,1974,1,1
+705,effc5a8a-bbc9-4e4c-a708-64b8122cf05f,Don't,1974,1,1
+706,209121ca-183f-4f96-a903-2d57c7887c06,Hearts and Minds,1974,1,1
+707,3f56295c-7100-4f1e-8687-4b87e7c92ddc,"One-Eyed Men Are Kings (...borgnes sont rois, Les)",1974,1,1
+708,1a792bbf-5dd5-44fd-9ecd-e82eadd8acb7,The Sting,1973,7,10
+709,c9d2e0d6-a212-47b6-aba9-743c057bb5b2,The Exorcist,1973,2,10
+710,fc87cd67-3ca7-4163-8c94-62f5f7157e12,The Way We Were,1973,2,6
+711,fc1e4183-ecc0-40b7-982c-43d93a0066e7,Cries and Whispers (Viskningar och rop),1973,1,5
+712,e923e168-0fc5-4bc2-b130-fe48d7d897e7,A Touch of Class,1973,1,5
+713,b0ac8eb9-23d0-4eb7-8fee-0318dd70a629,Day for Night (La Nuit américaine),1973,1,4
+714,fd8628f5-ea4d-4ebd-b730-e9f1015ab57e,Paper Moon,1973,1,4
+715,386f0cdb-97c3-4b29-b3a9-c1ad89f1c0d2,The Paper Chase,1973,1,3
+716,6250f793-bd39-4ddf-bffd-51421bf98a07,Save the Tiger,1973,1,3
+717,0f321a4d-81e6-48d6-83b1-2585a368bf60,The Bolero,1973,1,1
+718,4dfec375-6110-435f-81a1-e9cd7dd7abbe,Frank Film,1973,1,1
+719,5222f3ef-08df-48dc-bdfc-b5bee1d5c0bb,The Great American Cowboy,1973,1,1
+720,706b0a67-050d-4ae7-a37a-2f78734d90a0,Princeton: A Search for Answers,1973,1,1
+721,e0c9ae0c-28e4-430c-8cb8-2d86f2c15a6c,The Godfather,1972,3,10[4]
+722,ed029124-f3b5-4cb6-a5e4-aedf66191d5c,Cabaret,1972,8,10
+723,4e1538a1-e90b-4be4-8262-b04289574e30,The Poseidon Adventure,1972,1 (1),8
+724,0d63e430-a8e6-46da-ad82-e25ce8e279f2,Travels with My Aunt,1972,1,4
+725,3fcfb68d-bb04-4468-ae3e-a90897d2f7c7,Butterflies Are Free,1972,1,3
+726,0770e4a3-1d8b-4594-bb4e-b1ac5153af14,The Candidate,1972,1,2
+727,e8d0669b-dfa2-4530-98f4-4c629bdab780,The Discreet Charm of the Bourgeoisie (Le charme discret de la bourgeoisie),1972,1,2
+728,342f6d48-b036-4263-ae17-ed26dee58aac,A Christmas Carol,1972,1,1[5]
+729,3ff7e2cc-c410-40f0-9686-54031b7e56e1,Limelight,1972,1,1[6]
+730,e5667302-39a3-4fea-8522-2abeaebda0dc,Marjoe,1972,1,1
+731,1eb5cac0-d0df-4b0b-afc4-5ff5826dc766,Norman Rockwell's World... An American Dream,1972,1,1
+732,069048fd-cd41-497d-9336-0622e45c7f1d,This Tiny World,1972,1,1
+733,9a0b071f-8d40-4b80-a564-4af43d37cd13,The French Connection,1971,5,8
+734,760da754-6441-40b5-a86a-b3e9988557d2,Fiddler on the Roof,1971,3,8
+735,e74b3069-c7a0-4b25-8e0e-3e77c1ad811c,The Last Picture Show,1971,2,8
+736,678fce27-1a85-4413-bf04-59492a243613,Nicholas and Alexandra,1971,2,6
+737,836163e0-eea4-46a4-bb0e-ddfa45a565ef,Sentinels of Silence,1971,2,2
+738,9cc0e5a8-2c58-43f1-a833-2d7457f35101,Bedknobs and Broomsticks,1971,1,5
+739,60cba81e-4fd8-4d20-a19a-4cd10a6c000b,Summer of '42,1971,1,4
+740,70f4a8da-5db4-418a-b8d2-f328fc0cc4df,The Garden of the Finzi-Continis (Il Giardino dei Finzi-Contini),1971,1,2
+741,3a311ba2-fddb-4cf8-ace8-2c1d4a4a2583,The Hospital,1971,1,2
+742,c62de719-5f0f-4276-9d90-d84057fa9eff,Klute,1971,1,2
+743,28131a01-ca53-4ba3-801c-79a146c1eef0,Shaft,1971,1,2
+744,8bbe100a-250c-4300-b220-e0f5009cbf7b,The Crunch Bird,1971,1,1
+745,589a6650-bfaf-4855-bed6-83206541ca6b,The Hellstrom Chronicle,1971,1,1
+746,641021f2-8952-452d-9cee-1108dd0352c8,Patton,1970,7,10
+747,605b4d14-705f-49b6-8c77-82f097a76e56,Ryan's Daughter,1970,2,4
+748,2f6222de-4115-4f62-8304-d9b21a6812c3,Airport,1970,1,10
+749,0aa7c9e1-dcae-4f5a-a637-610c01462b76,Love Story,1970,1,7
+750,36f58f01-4a99-4e92-a489-a2c0b363b7a1,M*A*S*H,1970,1,5
+751,b71cc447-e2ae-4990-a506-5e19d3b4123b,Tora! Tora! Tora!,1970,1,5
+752,a4710f99-e2e3-4a51-b432-dc3bb0fdc7bc,Women in Love,1970,1,4
+753,fc56ece7-2d5b-4ff0-9c71-46a5cd867d30,Lovers and Other Strangers,1970,1,3
+754,d6202692-3828-48c5-966d-899358b12561,Woodstock,1970,1,3
+755,2791ddc0-2e42-4c9f-826e-509fb0f51cd5,Cromwell,1970,1,2
+756,6ddf20b5-3f2b-4401-968d-69483325664a,Investigation of a Citizen Above Suspicion (Indagine su un cittadino al di sopra di ogni sospetto),1970,1,2
+757,bb17a465-87b8-475f-90f2-a66c72efb86f,Interviews with My Lai Veterans,1970,1,1
+758,d0797fed-2712-4c5b-a7bc-b94c41d09f3d,Is It Always Right to Be Right?,1970,1,1
+759,311a1dc1-190c-49d4-a2c0-7224658e5c9a,Let It Be,1970,1,1
+760,924bd0a2-2081-47b2-8ed6-d3be8437b1cf,The Resurrection of Broncho Billy,1970,1,1
+761,afb9d23d-d656-432f-96a9-a61a387cf2bd,Midnight Cowboy,1969,3,7
+762,41663688-ff7e-49d8-908e-e076fdadaa00,Butch Cassidy and the Sundance Kid,1969,4,7
+763,a655e060-39bd-48e4-8b9b-eacd10405814,"Hello, Dolly!",1969,3,7
+764,0266e872-fa6b-40f8-9e4e-b9152f9ab3fd,Z,1969,2,5
+765,fa976f2e-d620-4b9e-aa84-9311d286b5e0,Anne of the Thousand Days,1969,1,10
+766,ac14d8e8-6c13-42e1-8c03-8095369e530f,"They Shoot Horses, Don't They?",1969,1,9
+767,cc03898a-8184-4d0c-9fd3-e887a94303d5,Marooned,1969,1,3
+768,743cac1c-56d0-4eeb-b706-873b041db826,The Magic Machines,1969,1,2
+769,b2b3fa00-676d-4f89-91e0-0919e3e9ba8f,The Prime of Miss Jean Brodie,1969,1,2
+770,fff7cbf6-0faa-4480-a2da-f9a94d16f428,True Grit,1969,1,2
+771,391e9239-7836-4f88-b051-37ff275d8f23,Arthur Rubinstein – The Love of Life (L'amour de la vie - Artur Rubinstein),1969,1,1
+772,10a52811-ff00-4d5e-9c38-1aef3f0dca0d,Cactus Flower,1969,1,1
+773,de55b8f0-05e4-4370-afa2-e2d3bd26ce47,Czechoslovakia 1968,1969,1,1
+774,5674ecd1-0348-4f3a-86ef-582b682dd446,It's Tough to Be a Bird,1969,1,1
+775,aff0872a-fd4c-4d02-bc19-be457bbe2a37,Oliver!,1968,5 (1),11
+776,96c90e8a-6de1-4f4c-9fdb-a61dcd58720b,The Lion in Winter,1968,3,7
+777,68b7aaa8-c18a-42ae-969c-aea99b0a3eb5,Romeo and Juliet,1968,2,4
+778,237f6456-a761-40ac-a7b8-41ecffb01094,Funny Girl,1968,1,8
+779,a60a2c3a-07fa-412f-80e1-94f2593bd570,2001: A Space Odyssey,1968,1,4
+780,f711e47f-2493-43d2-be30-2c044922ef30,Bullitt,1968,1,2
+781,c7869259-b7d0-4c09-a492-e0f998f5d292,The Producers,1967,1,2
+782,b940823a-994e-4d0f-aa81-afa39a6ed641,Rosemary's Baby,1968,1,2
+783,2eb89665-de8f-49fe-b706-2f2275323393,The Subject Was Roses,1968,1,2
+784,8b6e5f3b-cf75-4a04-ab33-058beef3e01f,The Thomas Crown Affair,1968,1,2
+785,39bf623a-4863-43ec-a530-4f93f8ebc19f,War and Peace (Voyna i mir),1968,1,2
+786,54d30b60-f8f4-44c0-af4b-70ec3c308ec8,Charly,1968,1,1
+787,9dfbe864-5c39-4e3f-bb75-bb7356edc6af,Journey into Self,1968,1,1
+788,9b3ad65b-a08b-4839-bb55-6eec98f7125b,Robert Kennedy Remembered,1968,1,1
+789,7b5617c2-dea2-4860-80bc-e5e6883570a6,Why Man Creates,1968,1,1
+790,b494e28b-d91d-4391-9391-2d5708484a30,Winnie the Pooh and the Blustery Day,1968,1,1
+791,326a4303-240e-4c57-bc5e-69832e666e7d,Planet of the Apes,1968,0 (1),2
+792,3759ed1b-a90d-4aee-a076-022b8366bb75,In the Heat of the Night,1967,5,7
+793,c392f678-f344-4962-b27b-981fc9a1b8e7,Camelot,1967,3,5
+794,b7d51246-0858-4812-abcc-ee30b8d0530d,Bonnie and Clyde,1967,2,10
+795,1e6648fc-f0c4-48fc-b86c-8693e7525e32,Guess Who's Coming to Dinner,1967,2,10
+796,61d1ce9f-3e6a-415c-890c-6d58739604ce,Doctor Dolittle,1967,2,9
+797,e087c69e-f7c2-4ce6-9215-e04d16e2437e,The Graduate,1967,1,7
+798,fc5e0ace-6ee7-4914-8f58-e0b5234adb74,Thoroughly Modern Millie,1967,1,7
+799,6df8d9b6-b82c-4590-b3fe-7dfa482f4662,Cool Hand Luke,1967,1,4
+800,fab5fff0-ebef-4365-adba-dfdcf6825eec,The Dirty Dozen,1967,1,4
+801,a1623637-6492-467f-bb92-241c4924be59,A Place to Stand,1967,1,2
+802,94fcbc83-aa1f-4656-9e86-0c1a62ed17a2,The Anderson Platoon (La Section Anderson),1967,1,1
+803,2468b936-6a59-4142-b5de-39eca8b58306,The Box,1967,1,1
+804,6fcd0686-697e-496c-b6eb-42280ea93ba5,Closely Watched Trains (Ostre sledované vlaky),1967,1,1
+805,a1168ffa-67f7-40bb-a142-820fd9eff133,The Redwoods,1967,1,1
+806,24df013e-65f6-49d6-abf5-eacfaa2c4858,A Man for All Seasons,1966,6,8
+807,0f18552d-8556-424e-89ae-c7769b5733bd,Who's Afraid of Virginia Woolf?,1966,5,13
+808,0352b7f2-e3d6-4955-8cfb-fe172b554d4f,Grand Prix,1966,3,3
+809,dc09157d-50bf-4a78-b836-d31e96bb0164,Fantastic Voyage,1966,2,5
+810,5b05c91b-492a-4750-ad18-84087cde826c,A Man and a Woman,1966,2,4
+811,bfa6df78-790e-47d1-afbb-9fafc736c4fb,Born Free,1966,2,2
+812,372a0fb3-f594-4dd3-adbd-6941aff83d1d,The Fortune Cookie,1966,1,4
+813,e3f168db-dbe6-49b6-a434-4f710e12ba64,A Funny Thing Happened on the Way to the Forum,1966,1,1
+814,110f13d3-096b-4cbc-9c4e-c993a8bd4538,A Herb Alpert and the Tijuana Brass Double Feature,1966,1,1
+815,572f57d8-a15a-4be8-9643-54ec8c76e69e,The War Game,1966,1,1
+816,c8531e6f-7c8c-4c64-ac57-092a81f4220a,Wild Wings,1966,1,1
+817,caeded85-56db-4409-8e22-e738404bcef6,A Year Toward Tomorrow,1966,1,1
+818,38f5e572-5c63-46c3-895a-0261334e1c04,The Sound of Music,1965,5,10
+819,cf104aec-88ac-47a3-81ed-06f246bc3a8a,Doctor Zhivago,1965,5,10
+820,5af5ec1b-f100-4301-9360-d56f6d4dd563,Darling,1965,3,5
+821,f908864d-3c72-4fe7-9bf1-a25f75b11dc8,Ship of Fools,1965,2,8
+822,1cb9342b-e5b8-424f-98ca-09f283e89666,Cat Ballou,1965,1,5
+823,73dc3f81-49a1-4276-8260-535c414877e1,The Great Race,1965,1,5
+824,ca17582c-eee2-4d64-9b59-812bf9d41fb9,A Patch of Blue,1965,1,5
+825,d819ef26-9ed3-42bb-8c81-fd21a30dba86,A Thousand Clowns,1965,1,4
+826,2870fac4-f381-47ad-9dd1-89827dc1aa7a,The Shop on Main Street (Obchod na korze),1965,1,2
+827,c55e47d1-87ea-4e8e-a7eb-e2ecad430249,The Sandpiper,1965,1,1
+828,1d896c89-78ea-4369-8209-70de1466cb04,The Eleanor Roosevelt Story,1965,1,1
+829,60f56a28-a442-47f9-b2bb-ce68dfef1723,To Be Alive!,1965,1,1
+830,b30ebf53-c52c-4e48-8f1e-fc4c2ffc3ca1,7 Faces of Dr. Lao,1964,0 (1),1
+831,956fdcda-bb56-4e55-9440-4b24789a6c1c,7th Heaven,1927/28,3,5
+832,cb1e0818-52ec-4745-9501-a663ba9fcc78,"20,000 Leagues Under the Sea",1954,2,3
+833,d903103b-3435-4083-bbe6-328eb2f8030f,Adventures of Don Juan,1949,1,2
+834,bb5570f0-d3c8-4f54-9b09-722526389f69,The Adventures of Robin Hood,1938,3,4
+835,7914d11b-b45d-4842-a440-eccfb87d97da,The African Queen,1951,1,4
+836,3faa46df-0234-42bf-85d3-7feba1d39688,Air Force,1943,1,4
+837,001cc062-6f89-4d37-a66f-f1f09e500d87,The Alamo,1960,1,7
+838,30306b70-5694-4cfe-93fd-694c6fdb645e,The Alaskan Eskimo,1953,1,1
+839,2fb4b6fc-d02e-44cc-ba86-14eaf5498642,Albert Schweitzer,1957,1,1
+840,59f1c0cc-0315-4a4c-a1c7-9c24d3dc379a,Alexander's Ragtime Band,1938,1,6
+841,6610ed78-84ea-47ea-ba58-1f5b7737336f,All About Eve,1950,6,14
+842,a4dae378-7ad4-4e58-be99-b4de0b48a626,All Quiet on the Western Front,1929/30,2,4
+843,9b6f1954-fb5f-4fd7-b591-d2846d7175a3,All That Money Can Buy,1941,1,2
+844,2471e354-a7e0-4c74-be8c-30b157a0bad6,All the King's Men,1949,3,7
+845,00d712b2-539e-42bc-8966-f0e28234ef55,Ama Girls,1958,1,1
+846,221711c7-61ad-47ef-b68d-419ec55acfe1,America America,1963,1,4
+847,b56c5b92-ecc6-4a19-9293-12d49fba5340,An American in Paris,1951,6,8
+848,0bd1c4e2-ad0d-4607-bf1c-f49dfa28ead3,Amphibious Fighters,1943,1,1
+849,52799b5f-9e68-4b7c-97cc-1466b12c0f05,Anastasia,1956,1,2
+850,1179558d-e045-4e30-a197-77199426cc24,Anchors Aweigh,1945,1,5
+851,805ff3ce-4adf-44c2-b994-b5411ee331da,Anna and the King of Siam,1946,2,5
+852,1bf45ccd-b0a6-4e26-a88b-7bc6f1dc6945,Annie Get Your Gun,1950,1,4
+853,3d7b58ee-5e23-4581-a21d-ac3f699452da,Anthony Adverse,1936,4,7
+854,a564c620-bb81-435e-a093-18fa9ab56a80,The Apartment,1960,5,10
+855,1047621a-026e-4367-aee8-fce5e9ff59bf,Aquatic House Party,1949,1,1
+856,414baa13-c9c5-4aa7-b339-c357588ed63f,"Arise, My Love",1940,1,4
+857,dbc4a585-ace6-4f20-a299-ee2d5177fb21,Around the World in 80 Days,1956,5,8
+858,ae98a6bd-2fd9-4d56-90ce-8ff83dd49e12,The Awful Truth,1937,1,6
+859,b06447b8-f857-4304-b588-c72544998c71,The Bachelor and the Bobby-Soxer,1947,1,1
+860,effc42c9-9ccd-4810-be68-a628aafb2ad9,The Bad and the Beautiful,1952,5,6
+861,f292c4a5-c601-4824-9fb0-90be30ae0331,Bad Girl,1931/32,2,3
+862,3d8e1dd7-d9e9-423b-a81d-cb178864b9f8,The Barefoot Contessa,1954,1,2
+863,64ba0e1f-f55b-4a10-ae6f-bc2bfca05136,The Battle of Midway,1942,1,1
+864,43572ca5-d8b4-4fe3-b8fb-08a42c18d539,Battleground,1949,2,6
+865,4b1cfccf-e4c6-4e2b-b1db-cbe8eff0f91d,Bear Country,1953,1,1
+866,d4b73920-6666-4e0a-9cdc-745a95de64f9,Becket,1964,1,12
+867,a55d185c-404b-4bbc-9bbe-d8047cef1b33,The Bells of St. Mary's,1945,1,8
+868,8fc1c716-c4ac-4ef8-9f62-23a7d2fddfbe,Ben-Hur,1959,11,12
+869,3a9fdd22-b5dc-41c5-8f28-0c3251273598,Benjy,1951,1,1
+870,0bb57fb2-0e64-412f-976e-8d877d31a9ae,The Bespoke Overcoat,1956,1,1
+871,31020a2d-4eaa-4605-81c1-15b31c27661a,The Best Years of Our Lives,1946,7 (1),8
+872,ba5be17e-9a88-4334-84b7-bdfe34d81fbc,Beyond the Line of Duty,1942,1,1
+873,83c4dbe5-d76a-4bf4-8ddb-db3ab69c9112,Bicycle Thieves,1949,0 (1),1
+874,165379a1-0b3e-4e80-a9e9-86eed90d0dfa,The Big Broadcast of 1938,1938,1,1
+875,521dc82b-c35f-4226-99b3-b8cc1fdf80f2,The Big Country,1958,1,2
+876,f38bfddd-6898-44f9-b717-70005e57c610,The Big House,1929/30,2,4
+877,734cfe60-e879-4202-a7c9-f1eb3a3116db,Bill and Coo,1948,0 (1),0
+878,d607faad-add0-47c2-a678-272ba365a9ec,Birds Anonymous,1957,1,1
+879,9ece34c1-ad3f-4c78-bb35-9e79ca827810,The Bishop's Wife,1947,1,5
+880,7bc95e62-659d-4f7a-90c4-342d6fcc8d32,Black Fox: The Rise and Fall of Adolf Hitler (The Black Fox),1962,1,1
+881,27073400-06d2-4d32-91a4-42d8ece148f5,Black Narcissus,1947,2,2
+882,9d1363b7-2223-4cba-b678-e563726473c2,Black Orpheus (Orfeu Negro),1959,1,1
+883,f84fc921-4859-4237-8445-f4ab4f67e80f,The Black Swan,1942,1,3
+884,5c7d6477-e58a-488d-a53f-3e4c2b6d659b,Blithe Spirit,1946,1,1
+885,38fc5f63-059c-4fbc-be0a-41958ab0f3a6,Blood and Sand,1941,1,2
+886,a322631f-7563-4629-b7f9-4d4f62fdb006,Blood on the Sun,1945,1,1
+887,47f0c611-4935-4114-ab5d-0f6e45360059,Blossoms in the Dust,1941,1,4
+888,422ac6aa-04b2-4719-a334-1dad9940037a,Body and Soul,1947,1,3
+889,9e0a12c2-d11e-45a6-babd-550181a9f491,Bored of Education,1936,1,1
+890,461af395-aa8a-4cb3-a794-b1b846f6aa5e,Born Yesterday,1950,1,5
+891,5e216e36-198c-4591-959b-8617e45383c8,A Boy and His Dog,1946,1,1
+892,704154a9-a79a-4551-9cc0-2a899d27d59a,Boys Town,1938,2,5
+893,8376398a-216e-4269-a425-eeff23d1222e,The Brave One,1956,1,3
+894,8322be98-2a40-4a23-8508-c7e471b53b28,Breakfast at Tiffany's,1961,2,5
+895,7a2806a2-e2e6-4037-a93e-7dd441955011,Breaking the Sound Barrier,1952,1,2
+896,d93d9ae0-36e0-4332-8e3f-7e401aadb108,The Bridge of San Luis Rey,1928/29,1,1
+897,f010eff8-b596-4b7d-b03d-68287ac562ed,The Bridge on the River Kwai,1957,7,8
+898,1334d116-cf77-4c52-a0fb-9b535e6b6ef8,The Bridges at Toko-Ri,1955,1,2
+899,0548db4a-35e5-48a1-be9d-5e0d52bcbbfb,Broadway Melody of 1936,1935,1,3
+900,87dfeae3-6a83-4320-9a42-a8e80d1b24e9,The Broadway Melody,1928/29,1,3
+901,318bb7b5-ea02-4933-b143-769105eefb28,Broken Lance,1954,1,2
+902,3ded10ea-d093-4d69-8d2f-afaeebb4ab4e,Busy Little Bears,1939,1,1
+903,abcc44c8-60da-42f7-adb7-863f418deca4,BUtterfield 8,1960,1,2
+904,3adf39e3-6b12-4525-b680-6d92b228dc45,Calamity Jane,1953,1,3
+905,43453d67-a242-46a1-ab26-90973db32622,Call Me Madam,1953,1,2
+906,3d723d8d-ab69-4178-96c3-fad4cc21624a,"Captain Carey, U.S.A.",1950,1,1
+907,083b5df1-2fcc-4aa4-8cdc-ba011fcf48e4,Captains Courageous,1937,1,4
+908,f79bf00b-f297-4cb0-908a-31fd73defa47,Casablanca,1943,3,8
+909,7e8c9f96-dd76-451c-a8a6-43cc2e699028,Casals Conducts: 1964,1964,1,1
+910,5634fd72-4d3d-48fd-b8b7-d8b00d1c5dd0,The Cat Concerto,1946,1,1
+911,7926095c-f160-4760-9c8e-287daf5430fb,Cavalcade,1932/33,3,4
+912,4fd2ccd7-7094-4db5-a18a-1a11733e8c28,Chagall,1963,1,1
+913,95762e2f-583a-4130-9cfb-89300d71c919,The Champ,1931/32,2,4
+914,adc37d22-9575-484d-b84d-019929c2e64a,Champion,1949,1,6
+915,4f12c745-ae71-41c1-a9d5-93fcdc4c9f1c,A Chance to Live,1949,1,1
+916,3812174e-2f8e-498b-8824-da088db00850,The Charge of the Light Brigade,1936,1,3
+917,2af3910d-e00e-464e-81ba-77b03a804d11,The Chicken (Le Poulet),1965,1,1
+918,6edbe03b-8481-4e3c-9b1e-303f5857856d,Churchill's Island,1941,1,1
+919,b0240482-6f1f-45e6-b759-f5037eaccbd3,Cimarron,1930/31,3,7
+920,45a7e66e-296d-4a1b-9456-d3ac1f9d0941,The Circus,1927/28,0 (1),0
+921,a9330333-0c3c-421d-877a-fdf96b69debe,Citizen Kane,1941,1,9
+922,780d6ebe-b522-462b-bd74-1b3ca8f0f748,City of Wax,1934,1,1
+923,1404cd28-9bdc-4332-95a6-faf327e70790,Cleopatra,1934,1,5
+924,973959b6-ac4b-417e-a544-08dc28702562,Cleopatra,1963,4,9
+925,a4cfc626-95f9-47b2-bf5c-2eceb899c93e,Climbing the Matterhorn,1947,1,1
+926,7e468ae6-d83f-45b3-ba7d-cd010a21e886,Come and Get It,1936,1,2
+927,ac1661e8-dc6d-4012-9cda-656335057a5c,"Come Back, Little Sheba",1952,1,3
+928,68dda33a-1c5e-4369-b23c-53b6376f795c,Coquette,1928/29,1,1
+929,094c550f-a66b-40c9-93d2-d18875f07b42,The Country Cousin,1936,1,1
+930,ee647d12-cc90-4a13-b0ea-dc943824d0fa,The Country Girl,1954,2,7
+931,8c684b82-c085-4e87-bd06-9565e466452a,Cover Girl,1944,1,5
+932,e275c75c-edf1-4b7a-9c6d-0a43adc4b451,The Cowboy and the Lady,1938,1,3
+933,4c3a959b-0753-4c74-9eb3-fe9f9249c701,Crash Dive,1943,1,1
+934,fdbd27d4-9445-46de-b4fc-9de8dfc52a22,Crashing the Water Barrier,1956,1,1
+935,e6bc3915-8922-4f6c-8c6b-a935a983cb23,The Critic,1963,1,1
+936,c674b71c-c826-48a5-bf17-17f64735cf29,La Cucaracha,1934,1,1
+937,fa1e810d-0fb1-4c93-826f-9641631c5264,Cyrano de Bergerac,1950,1,1
+938,c01868e5-ec5a-4906-910d-c3f93b2b1cf5,A Damsel in Distress,1937,1,2
+939,6093f49a-0f38-483e-be09-6ad712a09be7,Dangerous,1935,1,1
+940,a60d0a07-eaaf-4ac3-9cca-5ba5a6d09a66,The Dark Angel,1935,1,3
+941,da2318cb-0ff9-49bc-847d-d9b5e57525d0,The Dawn Patrol,1930/31,1,1
+942,f50cc9a0-034a-49f1-b0f8-75a88443c2cc,Day of the Painter,1960,1,1
+943,3b554f5b-f6ff-4574-b466-0e0f1ecede9e,Daybreak in Udi,1949,1,1
+944,967b50cc-a445-44a4-b244-6ad9bb823ba2,Days of Wine and Roses,1962,1,5
+945,4c87a174-1a6f-4af2-8806-748c9010d658,December 7th,1943,1,1
+946,64e9f5e5-cbec-4781-b2b6-ee926ed97975,Declaration of Independence,1938,1,1
+947,38c4eef1-4b39-4630-8671-d1fac1063710,The Defiant Ones,1958,2,9
+948,9f2cbfd4-f32f-4a7e-90ae-ffc2bb138b3d,Der Fuehrer's Face,1942,1,1
+949,827df7a3-e99e-4cb4-ac97-d606edacabf8,Desert Victory,1943,1,1
+950,5538ecaf-cca9-407e-bc23-77ac000e48ee,Design for Death,1947,1,1
+951,daa265a9-cea1-4dbe-bf80-8d9ddfc4f2bf,Designing Woman,1957,1,1
+952,a1edfce8-5be1-478b-932e-2c1813d3a6bf,Destination Moon,1950,1,2
+953,8efbb3a2-e64a-4c3e-8ddc-0d57b883c8c2,The Diary of Anne Frank,1959,3,8
+954,0b7f0ce0-9aa7-4462-a488-3955356ad1b2,Disraeli,1929/30,1,3
+955,d59c99a6-0e0b-4fb9-a16a-fbe5c52dabb1,The Divine Lady,1928/29,1,3
+956,afb7b0ad-53b8-4583-8f54-7af355363b76,Divorce Italian Style,1962,1,3
+957,b73d881c-12ed-4dc1-9198-9066ed748f80,The Divorcee,1929/30,1,4
+958,5b7f1912-a243-47c1-a312-3ae8f04cf448,Dodsworth,1936,1,7
+959,f2f3af8b-9a8b-4dd2-8d72-a2d107e6cb0f,The Dot and the Line (The Dot and the Line: A Romance in Lower Mathematics),1965,1,1
+960,cf4da921-d811-45f0-acf8-fc288c844591,A Double Life,1947,2,4
+961,6855e6cd-4148-41a9-a423-462022e66dea,The Dove,1927/28,1,1
+962,920ff329-6f77-4ac6-97b0-a8b8c4e23f8b,Dr. Jekyll and Mr. Hyde,1931/32,1,3
+963,6fd7f4a2-cbcb-4515-a8d2-12953bf060e0,Dumbo,1941,1,2
+964,f56a2c92-11be-45f2-b0d7-3cb239361e74,Dylan Thomas,1962,1,1
+965,4d3d870e-dc2a-4efb-97b2-6bed88e0befc,East of Eden,1955,1,4
+966,a3f7db42-d941-47c4-8924-e16a05447285,Easter Parade,1948,1,1
+967,a91e2fd3-9f5e-4a05-ae52-3c62b2717590,Elmer Gantry,1960,3,5
+968,3e7fdb7b-bef4-4082-a1ec-986585748323,The Enemy Below,1957,1,1
+969,9b821bab-21ab-47e0-82a8-c6a5fd683a3b,Eskimo,1934,1,1
+970,c4cac3f7-2885-4292-815c-119eb8f42c1e,Exodus,1960,1,3
+971,5c8efad3-4cc2-4425-8b0c-d47899521337,The Face of Lincoln,1955,1,2
+972,6517a1c8-7e51-46f1-add6-fac2a99efa9b,Facing Your Danger,1946,1,1
+973,51c2d5d5-60ad-43de-aea2-a197992d2518,The Facts of Life,1960,1,5
+974,9f7eff37-1849-4ce1-a8ba-828f481448f8,Fantasia,1940,0 (2),0
+975,f73e27f3-f50a-49ad-b008-ea00a82ed8f4,A Farewell to Arms,1932/33,2,4
+976,296b0637-3d6e-48fe-b36a-b244efed4dcf,The Farmer's Daughter,1947,1,2
+977,e2e6d630-e713-4641-a9f4-2e2fc3d3fce9,Father Goose,1964,1,3
+978,ea3fe936-860b-490a-969b-a849ecad85d4,Federico Fellini's 8½,1963,2,5
+979,f78fc30c-8a1a-4f5d-b95f-0eebb366386f,Ferdinand the Bull,1938,1,1
+980,d78a85f3-5033-41cb-b446-0616540a546a,The Fighting Lady,1944,1,1
+981,b97a228f-eced-4153-ba08-356a836fbb8c,First Steps,1947,1,1
+982,6cd0e45c-4072-4484-98dc-e6b12b5af503,Flowers and Trees,1931/32,1,1
+983,30593133-2658-4425-bcf0-756c2d21e303,Folies Bergere,1935,1,1
+984,47cad77f-e3d8-4bc5-96e2-6f1783ef0116,For Scent-imental Reasons,1949,1,1
+985,a0c6f417-5b72-4585-adfb-00b49700e929,For Whom the Bell Tolls,1943,1,9
+986,3520acfb-ef98-4fe5-b198-db4cc91d69b5,Forbidden Games,1952,0 (1),1
+987,2db7c8f7-2686-42ef-8c70-0214ac9f9348,A Force in Readiness,1961,0 (1),0
+988,3e9e8d69-9a01-4142-bd69-3b49a98def3a,A Free Soul,1930/31,1,3
+989,131a8d5c-7d1f-4cfc-a614-d6b95aa5d6c2,Frenchman's Creek,1945,1,1
+990,5dd4ea89-57d6-4bf3-9b01-7e4b9e5b300f,From Here to Eternity,1953,8,13
+991,ee45cccc-05ae-4abc-b14f-e6d634fc8448,The Garden of Allah,1936,0 (1),2
+992,3291b934-8d6d-438a-9b1a-a68cb55acc5e,Gaslight,1944,2,7
+993,0040aa2f-c1cf-4ada-92bc-00f40580c9b8,Gate of Hell (Jigokumon),1954,1 (1),1
+994,17701164-09df-4746-be39-8f5c58e5729a,The Gay Divorcee,1934,1,5
+995,8851d8a5-3a61-4727-8a6d-160d8d6aa79e,Gentleman's Agreement,1947,3,8
+996,d32c5e0d-8e5b-4627-a29b-1039a7ee9dc4,Gerald McBoing-Boing,1950,1,1
+997,a209eeab-b93f-47a6-8f12-e73289625302,Giant,1956,1,10
+998,cdfccada-6c9a-4e57-9bd5-3a5378a3339a,Gigi,1958,9,9
+999,bcd348ce-2465-4e22-9818-d291d40a9fa2,Giuseppina,1960,1,1
+1000,92dc2770-2d78-460c-be4a-a1eb1aa877a7,Give Me Liberty,1936,1,1
+1001,c18e1295-f59a-40d7-b7a6-466b79afe2cb,Glass (Glas),1959,1,1
+1002,d0fb9612-402d-4b10-bb75-d816cfffb424,The Glenn Miller Story,1954,1,3
+1003,70d21970-c734-4c12-85be-e7cc644ed106,Going My Way,1944,7,10
+1004,757f9f11-68e0-4883-a5a0-0d0416cde78b,Gold Diggers of 1935,1935,1,2
+1005,92f0f5b4-878f-4e35-8cf0-9fd7afd91905,The Golden Fish (Histoire d'un poisson rouge),1959,1,1
+1006,68426e2f-6495-475c-8ec8-a94a7f904dba,Goldfinger,1964,1,1
+1007,022dbb3e-dc7a-4aef-8fb8-11fc972db1ae,Gone with the Wind,1939,8 (2),13
+1008,f5166af2-ffd1-408e-9b93-74f37692e69f,The Good Earth,1937,2,5
+1009,25e04c7a-ad36-45a7-81c1-05013047852f,"Goodbye, Miss Turlock",1947,1,1
+1010,e4e74c60-3397-406d-9857-b807fcf47ec9,"Goodbye, Mr. Chips",1939,1,7
+1011,3db26206-6582-4f69-b6dd-760a2743917e,Grand Canyon,1958,1,1
+1012,c4c864f7-93ce-414b-b189-87e56c801f19,Grand Hotel,1931/32,1,1
+1013,d5e258b5-90a8-47ba-8be2-bf8599fd0607,Grandad of Races,1950,1,1
+1014,05346247-924c-4ec5-87ad-bd9f44975ab5,The Grapes of Wrath,1940,2,7
+1015,25fffe11-2e3c-4325-a66f-006b2246e589,The Great Caruso,1951,1,3
+1016,611ec88b-46e7-45c8-b7e4-dfce90fef089,Great Expectations,1947,2,5
+1017,6c8075e7-9764-4c12-afa2-415d8e5ae511,The Great Lie,1941,1,1
+1018,25592871-54b3-4930-99ca-c11d6a79f242,The Great McGinty,1940,1,1
+1019,c3595fc7-bad4-4859-814e-3f30eb681692,The Great Waltz,1938,1,3
+1020,805c2478-0d23-412b-85c7-e69328ad6a32,The Great Ziegfeld,1936,3,7
+1021,34a3956d-60ba-4de8-8d6b-bcb8bb70374a,The Greatest Show on Earth,1952,2,5
+1022,f9267ff7-ccb5-4b89-8586-15267ddb73e5,Green Dolphin Street,1947,1,4
+1023,f231cfaf-c183-41b7-b5c3-80e7363aa1c6,The Guns of Navarone,1961,1,7
+1024,92d6ce1c-6445-4e4b-a70b-d90a9c050893,Hamlet,1948,4,7
+1025,37a3c6e6-4a07-4d7b-b1b9-a526e123c607,Happy Anniversary (Heureux Anniversaire),1962,1,1
+1026,71ad044c-bb5e-4ce4-a351-c99e3345b6d8,Harvey,1950,1,2
+1027,49fafcf9-fce7-43a0-a85e-789346c5afe3,The Harvey Girls,1946,1,2
+1028,06ba24b2-5ad3-4aa9-8b29-87a759ba3cf1,Heavenly Music,1943,1,1
+1029,04f6c221-0707-4605-a90b-f4e1715973c0,The Heiress,1949,4,8
+1030,8012d443-98b0-430b-b63b-63a3292cb17f,Helen Keller in Her Story (The Unconquered),1955,1,1
+1031,d071319e-e44a-41e5-86d5-ef24cc51cbd6,"Hello, Frisco, Hello",1943,1,2
+1032,5535fdd0-cfdb-41d0-8960-9f8c733d8df5,Henry V,1946,0 (1),4
+1033,4c884b3b-d5a0-4205-80e7-1386d632d90e,Here Comes Mr. Jordan,1941,2,7
+1034,8eea4bca-cf2c-41b2-a8b5-ab0b6d1062f4,Here Comes the Groom,1951,1,2
+1035,cb2ff100-da8e-4473-870c-423e2b203d96,The High and the Mighty,1954,1,6
+1036,09a07893-909c-4539-8bed-4b0b6b9c2407,High Noon,1952,4,7
+1037,e793c766-c3b7-4564-8246-42b08648f669,Hitler Lives,1945,1,1
+1038,114e9752-defb-4c68-bd59-25aa0ccc0670,A Hole in the Head,1959,1,1
+1039,724c8062-d72d-466e-8ce8-e24c9c5a06d4,The Hole,1962,1,1
+1040,1d32014e-eaf0-492e-a9a6-af4fbd9c6ec4,Holiday Inn,1942,1,3
+1041,0afa2331-15be-4802-b988-8f0a42137061,The Horse with the Flying Tail,1960,1,1
+1042,24d12768-018e-412e-b1a0-a3d5bfb26191,The House I Live In,1945,0 (1),0
+1043,52662167-5d1c-4472-bb5f-c5229e8b8f60,The House on 92nd Street,1945,1,1
+1044,5f1cf615-2a7b-45d7-a472-5c21702c0ac1,How Green Was My Valley,1941,5,10
+1045,caf3cc37-83b4-47ac-80f1-9690aa6beaa7,How the West Was Won,1963,3,8
+1046,f5432de8-5689-46cf-8ca9-4c1ca4dc6d5f,How to Sleep,1935,1,1
+1047,e1f25b71-b378-4a18-adc2-56ea5294127f,Hud,1963,3,7
+1048,e5e41296-5178-4289-97c2-21380290b31f,The Human Comedy,1943,1,5
+1049,de42e276-faa0-4f54-bb65-795a3c85a97e,The Hurricane,1937,1,3
+1050,141fa0c2-34f2-4c3d-bb69-5e28fe416759,The Hustler,1961,2,9
+1051,30556859-3732-45d3-8262-7427718f0408,I Want to Live!,1958,1,6
+1052,fb82b461-6c5e-427e-b5a8-46442cb39f42,I Wanted Wings,1941,1,1
+1053,fa18521c-65bc-44e0-a1c2-5300bacdbd22,I Won't Play,1944,1,1
+1054,bc5acbfa-b4f7-4583-97a1-6efcce8fc2f0,I'll Cry Tomorrow,1955,1,4
+1055,e37b820b-b416-4285-b53f-d25afec40ea7,In Beaver Valley,1950,1,1
+1056,003332f6-a0f3-4875-ae78-56fa5783e19f,In Old Arizona,1928/29,1,5
+1057,c748fa88-a2ce-423d-8c59-7d01098b5997,In Old Chicago,1937,2,6
+1058,e60db6b5-11d9-4067-8ed3-82f3d7e481ec,In Which We Serve,1942,0 (1),2
+1059,7407d1cc-f306-45cf-8c78-1197862ac54c,The Informer,1935,4,6
+1060,2f99de7d-ee32-44ab-aa0f-30cc4d4ef12b,Interrupted Melody,1955,1,3
+1061,e1b3f560-8307-4d7d-8ae6-bbfac7c25b3c,The Invaders,1942,1,3
+1062,aae2a6a6-ad38-4eb2-96a2-4d593347caf2,Irma la Douce,1963,1,3
+1063,6a5afcb0-0a4d-4090-809f-d95ba6807820,It Happened One Night,1934,5,5
+1064,0bdf8dda-c9b9-4b51-9e54-314b439ccc17,"It's a Mad, Mad, Mad, Mad World",1963,1,6
+1065,cc9c06ac-9757-4ff7-b854-a275cd4400c5,The Jazz Singer,1927/28,0 (1),1
+1066,03848f09-239e-4113-8d91-af357a280b90,Jezebel,1938,2,5
+1067,d5955899-4bdc-43ee-b8cf-f4d084d3611f,Joan of Arc,1948,2 (1),7
+1068,991a9f10-6d48-4b35-baa9-c087520303b0,Johann Mouse,1952,1,1
+1069,e06f1759-9e63-4a04-b84c-3a4d298d7e42,Johnny Belinda,1948,1,12
+1070,c383214c-3c68-4b8f-9c5e-8cf44389fab6,Johnny Eager,1942,1,1
+1071,9f2f3c31-1816-4c39-b94b-313fc5817679,The Joker Is Wild,1957,1,1
+1072,68f4db83-f37d-4fda-a47d-3e8e2b67f9a3,The Jolson Story,1946,2,6
+1073,7de13162-3f11-4d49-b9fc-34b3f34bbc4d,Judgment at Nuremberg,1961,2,11
+1074,098c9620-20a7-46b2-9e23-e1eda9603251,Julius Caesar,1953,1,5
+1075,4063d11f-71c1-4c10-9fcb-c022f4b3b649,Kentucky,1938,1,1
+1076,a1bdb0bb-cb4c-49a1-8e93-afa6f6ad4fc8,Key Largo,1948,1,1
+1077,d6f45cf5-3804-4a4b-8de5-243aa1106afb,The King and I,1956,5,9
+1078,e8761fa7-8f7a-4c98-aca5-99a6fbe4d71f,King of Jazz,1929/30,1,1
+1079,cdb3dbe2-75ca-46ff-a513-3c9eeddca621,King Solomon's Mines,1950,2,3
+1080,a00bb694-b4f6-4718-839e-30933e708d65,Kitty Foyle (Kitty Foyle: The Natural History of a Woman),1940,1,5
+1081,649951ec-d4b1-4772-9d45-ed905b7e31b6,Knighty Knight Bugs,1958,1,1
+1082,b28372c0-314e-4398-af7b-be610f008bb8,Kokoda Front Line!,1942,1,1
+1083,5cc451e2-5a76-4fe1-b0c6-1282a9762609,Kon-Tiki,1950,1,1
+1084,a018ac05-1bed-4b06-bb24-f0b2842ffd9a,Krakatoa,1932/33,1,1
+1085,3882a921-9720-40b3-a4db-8c065a3f9779,Kukan,1941,0 (1),0
+1086,a5328367-52f6-49ba-a295-d4ebe1d6c550,La Strada (The Road),1956,1,2
+1087,a7818a3b-509d-4360-b461-1c70dc8ac144,La Dolce Vita,1961,1,4
+1088,65835808-b806-4a2a-915c-c4e6e78c361e,Lady Be Good,1941,1,1
+1089,aadc1c60-f70a-4049-9251-dca8a255e36c,The Last Command,1927/28,1,2
+1090,c1c97991-0a0d-4910-b486-0b16ddb67b50,Laura,1944,1,5
+1091,4971b8ce-0887-41fa-ae49-ccca77a73f23,The Lavender Hill Mob,1952,1,2
+1092,fc91400c-7f19-443e-8527-33ba145d3b20,Lawrence of Arabia,1962,7,10
+1093,3bd2018e-60ad-47a2-a4cc-e47e47393bcd,Leave Her to Heaven,1945,1,4
+1094,b32d021f-3468-461f-af8c-e858c5f2b85e,Lend a Paw,1941,1,1
+1095,c40a1ce4-ea85-4678-b14f-9ebe6b53b8d7,Les Girls,1957,1,3
+1096,e6eb3898-a48c-464a-9290-f63741469ca1,A Letter to Three Wives,1949,2,3
+1097,201886f2-53bd-47c7-b647-1380983fa91b,The Life of Emile Zola,1937,3,10
+1098,52a45a41-5dd4-48cf-87be-61be00e1f6b8,Light in the Window,1952,1,1
+1099,1481b11d-6041-4243-acc7-59943860093c,Lili,1953,1,6
+1100,28a7ae87-e821-49d6-8c09-db169346228e,Lilies of the Field,1963,1,5
+1101,201ac6e2-963a-4fa8-bb4b-3726b310c04a,The Little Kidnappers (The Kidnappers),1954,0 (2),0
+1102,a0ea85e9-99a7-4905-ad04-89bffcdf2342,The Little Orphan,1948,1,1
+1103,c4259a5e-52c1-4e87-8982-230f008620dd,Little Women,1932/33,1,3
+1104,1b1402f7-345e-4bcf-9854-0aaf6b156f0b,Little Women,1949,1,2
+1105,798d42a1-9372-45c0-b9e2-29f24481aade,The Lives of a Bengal Lancer,1935,1,7
+1106,fa1f9581-10a6-4e5b-8024-ec3ad0dc9399,The Living Desert,1953,1,1
+1107,39a499a1-16d1-4275-83a9-8424c3ba65c3,The Longest Day,1962,2,5
+1108,57f89a2e-129e-4674-ae7e-a5f4769118df,Lost Horizon,1937,2,7
+1109,887a2f3e-435f-414e-affe-03b9c748c9dc,The Lost Weekend,1945,4,7
+1110,0b5a81da-7cdb-48d9-bba7-9795657becc4,Love Is a Many-Splendored Thing,1955,3,8
+1111,11e4bff8-3687-4f02-8758-6911ef36db89,Love Me or Leave Me,1955,1,6
+1112,177d0bd8-e798-418b-8f51-f26d558b3686,Lust for Life,1956,1,4
+1113,04cbd56a-1195-42d4-b9b7-08434caacf12,Magoo's Puddle Jumper,1956,1,1
+1114,a2588ee0-0da8-4429-8663-08f9e887cc40,Main Street on the March!,1941,1,1
+1115,5ad53264-56ba-4a01-aa92-d99fc8f7ff8b,The Man Who Knew Too Much,1956,1,1
+1116,68f0bc60-7969-4866-ad39-b83167979226,Manhattan Melodrama,1934,1,1
+1117,cc1f9a69-9306-4a1f-bad1-1ec1c0e91891,Marie-Louise,1945,1,1
+1118,23f1e4ca-b8d7-4880-91b0-26a571c27c11,Marty,1955,4,8
+1119,074c4a88-1b8a-4177-bf33-70712dfa8ba0,Mary Poppins,1964,5,13
+1120,89119ddd-dfdc-41b3-a650-8dc92841b753,Men Against the Arctic,1955,1,1
+1121,3ce96262-cfad-40f1-9b88-27f4f62befd9,The Merry Widow,1934,1,1
+1122,f23dc7f5-52b2-4db2-a7bf-20a17388e145,A Midsummer Night's Dream,1935,2,4[7]
+1123,84c8e98f-6f1a-4ae9-9ea7-e8fe9f06170d,Mighty Joe Young,1949,1,1
+1124,3779631b-2036-4329-b764-f0a77907f373,Mildred Pierce,1945,1,6
+1125,822f9338-c95c-4d6b-b0d2-3b4ef90a926b,The Milky Way,1940,1,1
+1126,ab4c9dc9-58da-4851-9e20-6390d3137dbc,Min and Bill,1930/31,1,1
+1127,5b1ff5c3-8f5e-4ecf-8f8b-6d6913f1b9c4,Miracle on 34th Street,1947,3,4
+1128,5269fe64-2301-493b-9faa-f737825b250e,The Miracle Worker,1962,2,5
+1129,75276960-f42a-4b04-be8e-ef35a22f8246,Mister Roberts,1955,1,3
+1130,373f7e6b-285c-4972-a742-ba0f4fdd4afa,Monsieur Vincent,1948,0 (1),0
+1131,ec025fc6-ab5e-410e-b898-afb261d1ebcb,Moonbird,1959,1,1
+1132,137c134b-0774-49a6-b1ae-ac58df325364,The More the Merrier,1943,1,6
+1133,eb02ce90-97c6-4106-a667-67efe49daf97,Morning Glory,1932/33,1,1
+1134,2dd09ea5-f16d-4620-9d75-3c8070bdacf3,Moscow Strikes Back,1942,1,1
+1135,305883f8-30d5-4475-934d-723c6f34f92c,Mother Wore Tights,1947,1,3
+1136,1ae229bb-e681-4744-868f-36d5cec5520e,Moulin Rouge,1952,2,7
+1137,e66d3887-aadd-4ee3-99cc-1e999b46e16f,Mouse Trouble,1944,1,1
+1138,8bf8db22-239d-4ecc-85c0-d4f8c5558afb,Mr. Deeds Goes to Town,1936,1,5
+1139,02abbdf4-7a61-4a18-af68-8b02fad8bfb2,Mr. Smith Goes to Washington,1939,1,11
+1140,72bdb169-87cd-4709-9219-9361de7d7210,Mrs. Miniver,1942,6,12
+1141,ecdc543d-e354-4a3c-90bd-8fd2f8c41783,Munro,1960,1,1
+1142,deb06f96-cad1-482d-83bb-48325255e5b8,The Music Box,1931/32,1,1
+1143,3c270122-bb74-42f6-a1f7-c146f3325c74,The Music Man,1962,1,6
+1144,85593cf7-77d5-4e5e-84db-110888a53776,Mutiny on the Bounty,1935,1,8
+1145,3c1ddc98-9b79-4cfc-9dd3-bf95555c4a43,My Fair Lady,1964,8,12
+1146,c7195349-68f1-4148-9af6-ccf0866628b3,My Uncle (Mon oncle),1958,1,1
+1147,23fd3c0c-d605-4305-9f13-12b1cdfe1861,My Gal Sal,1942,1,2
+1148,3eaad2b6-58db-421b-bd0b-40ebf1a38414,The Naked City,1948,2,3
+1149,a691d6a9-7c92-4e08-80c8-8796f24ceb80,National Velvet,1945,2,5
+1150,06a13585-bc40-47b9-8edc-d601e421ac80,Nature's Half Acre,1951,1,1
+1151,8df5cd61-4e35-441e-a123-7152db95563a,Naughty Marietta,1935,1,2
+1152,b03c56f5-94de-4bb3-8e1f-4d26062e2445,Neighbours,1952,1,2
+1153,0e568536-fff9-4339-85aa-35ece3867900,Neptune's Daughter,1949,1,1
+1154,49829420-ad64-4f64-b267-9c4551084921,Never on Sunday (Pote tin Kyriaki),1960,1,5
+1155,1d228a7d-a537-418d-b8a0-c4fbf6cf718a,The Night of the Iguana,1964,1,4
+1156,42852ab0-a538-4b0a-a13e-7e5a488a079c,Nights of Cabiria (Le Notti di Cabiria),1957,1,1
+1157,df25ee1c-6803-4fbd-9418-25deeeb0db89,Nine from Little Rock,1964,1,1
+1158,e6c2fa89-cc07-4ea5-b07d-e4b1eb164369,None But the Lonely Heart,1944,1,4
+1159,5ca4647a-bc31-4078-bbc3-5d9d54d64497,North West Mounted Police,1940,1,5
+1160,02fb13df-5eaf-4126-aa2d-9c78f34d30c4,"Now, Voyager",1942,1,3
+1161,5febbd98-93c8-4826-b956-0b419ac3f436,An Occurrence at Owl Creek Bridge,1963,1,1
+1162,97215d41-6c82-4c85-98d2-be6337010720,Of Pups and Puzzles,1941,1,1
+1163,e4d83c2e-8a67-4fd0-956d-bc480f07c81a,Oklahoma!,1955,2,4
+1164,1b8139e3-364d-4421-8835-40c98f74104c,The Old Man and the Sea,1958,1,3
+1165,c27499cc-b2ec-4f01-8d94-50ca5e63c2d1,The Old Mill,1937,1,1
+1166,43df4573-2b83-4f94-89fa-9c1819aa5653,On the Town,1949,1,1
+1167,ce3d521f-544a-4bb7-a64b-6b258a0e47e0,On the Waterfront,1954,8,12
+1168,4ac9ad69-c979-4f96-879f-4c5eaa13b1b5,One Hundred Men and a Girl,1937,1,5
+1169,8f8d85b6-f49d-4f2b-b6b3-a020342ddef5,One Night of Love,1934,2,6
+1170,945043c7-681c-4475-8140-b8ec7ad90611,One Way Passage,1932/33,1,1
+1171,385c11ee-be95-4a36-8faf-9b697a8f1ea0,Overture to The Merry Wives of Windsor,1953,1,1
+1172,e9cb14c5-6b1c-4b05-be6d-e22835035116,The Paleface,1948,1,1
+1173,a9a7c147-dd6e-4bb9-9264-3b65e2ad65ae,Panic in the Streets,1950,1,1
+1174,df6c4cce-4ea4-450c-be2c-91eabb0cdcef,Papa's Delicate Condition,1963,1,1
+1175,78380d6a-00b9-4f85-b190-66c1c12071dd,The Patriot,1928/29,1,5
+1176,4f84a4ba-cd80-4e19-bb7b-75684a268d2b,Penny Wisdom,1937,1,1
+1177,791245cf-fe2f-4104-bc49-8be2ae2368b7,Phantom of the Opera,1943,2,4
+1178,fd1342b5-ddcb-4a82-b748-3fdfcff5547e,The Philadelphia Story,1940,2,6
+1179,907111a7-dfd3-4666-91f5-6934e5090b4d,Picnic,1955,2,6
+1180,e55ca0f1-45a0-4bc4-84c1-ab03e48f2f50,The Picture of Dorian Gray,1945,1,3
+1181,b8169bf0-97bc-4e59-aeb3-ecb43e774d29,Pillow Talk,1959,1,5
+1182,3be029d3-03d1-4f3e-9104-9e9af207f460,The Pink Phink,1964,1,1
+1183,05b60ac7-ebce-4198-8f3c-aeca2f9880f6,Pinocchio,1940,2,2
+1184,8558f2c1-73bb-438e-afa6-7e223074e1a8,A Place in the Sun,1951,6,9
+1185,896f42b1-bd75-40af-ae0a-acbdbf150648,Plymouth Adventure,1952,1,1
+1186,92356df3-87d8-44d1-b7dc-3bdf9a9dc539,Pollyanna,1960,0 (1),0
+1187,ecad328f-aea3-498e-8fdd-cc3fc4cd8ac2,Porgy and Bess,1959,1,4
+1188,69acd30f-615b-434e-92e2-3094d6dba13f,Portrait of Jennie,1948,1,2
+1189,2d55643d-b06d-4307-8abb-b7d1fb68b88c,Prelude to War,1942,1,1
+1190,d4572bca-41cf-4f8f-8601-dcb537d8cb3c,Pride and Prejudice,1940,1,1
+1191,28f1ba57-9661-4ddf-9f6f-c849145deca4,The Pride of the Yankees,1942,1,11
+1192,dc1020c3-0a6b-4afd-87d3-6f2fd3d417a6,Princess O'Rourke,1943,1,1
+1193,e451b8a1-16cc-4faf-afe0-c1aadbd4bdcb,The Private Life of Henry VIII,1932/33,1,2
+1194,a51e420d-6447-4a77-9fc6-bf434bba9d87,The Private Life of the Gannets,1937,1,1
+1195,df6c3177-7b4c-4e6c-bbcd-9b3667d3aa19,Project Hope,1961,1,1
+1196,cd7e8208-eb58-4b25-ad55-9c36e74e7a2e,The Public Pays,1936,1,1
+1197,5c4b4c6a-d244-4aec-b02a-e58b715340b7,Pygmalion,1938,1,4
+1198,38bc1808-7795-4c7b-8fe1-1d17f3f7282d,Quicker'n a Wink,1940,1,1
+1199,bc2ddb3f-8dfd-49b0-bae2-240b922aba8b,The Quiet Man,1952,2,7
+1200,b6aa4cab-6c86-4936-a8be-134a1efc549c,Quiet Please!,1945,1,1
+1201,51b972b3-7197-402e-8cd6-8c0ce1183ed4,The Rains Came,1939,1,6[8]
+1202,a31454e0-0aaf-4745-bc7f-21d7befe9580,Rashomon,1951,0 (1),1
+1203,0bb11a3b-a5c0-4617-9d80-e5a38c45a80e,The Razor's Edge,1946,1,4
+1204,8c246272-d1d6-4282-b4bf-a9491653a5fa,Reap the Wild Wind,1942,1,3
+1205,35e91a34-cc0a-42a9-b196-bc2c0d20d1f6,Rebecca,1940,2,11
+1206,7a315b97-22e4-488a-8bcd-415c2a526ea1,The Red Balloon (Le ballon rouge),1956,1,1
+1207,f68708e4-d123-4422-befc-3cc048ecf86d,The Red Shoes,1948,2,5
+1208,57da27a8-88fa-4966-bd3f-0465f07f1114,The Robe,1953,2,5
+1209,ca8140f0-2fc2-4fc1-8cad-1102be6198dd,Robert Frost: A Lover's Quarrel with the World,1963,1,1
+1210,ce528166-84d9-475c-a02b-27b7330a2b83,Roman Holiday,1953,3,10
+1211,f3e3e158-f72b-41e6-935c-2da633ef9a43,Room at the Top,1959,2,6
+1212,6fe0aaac-0ea1-4167-b4cf-80e88838cc84,The Rose Tattoo,1955,3,8
+1213,a0ba31f7-12bc-42df-be8b-5e77cdc83d45,Sabrina,1954,1,6
+1214,e3b0d644-f9de-498a-800c-ba431c1d9623,Samson and Delilah,1950,2,5
+1215,4c1100e5-0070-4340-85d8-7584541cffb3,Samurai I: Musashi Miyamoto (Miyamoto Musashi),1955,0 (1),0
+1216,b178633f-0deb-4c82-bd17-767f1924892a,San Francisco,1936,1,6
+1217,7b3f5db4-6dc4-476a-bf61-d106131cb9d9,Sayonara,1957,4,10
+1218,def46243-42ba-4029-9fec-d85c1014834e,The Scoundrel,1935,1,1
+1219,f669bcd2-4a68-4a08-9fa0-3196e742fca9,The Sea Around Us,1952,1,1
+1220,ec668106-b489-484d-aa86-e44b0450fb18,Seal Island,1948,1,1
+1221,c7755056-85ff-4ce3-bc86-32618a5f882d,The Search,1948,1 (1),4
+1222,dab24c5e-2277-4fdf-94de-3b9ecb065256,Seawards the Great Ships,1961,1,1
+1223,68d97146-e11e-4475-a995-e42f123fd90b,The Secret Land,1948,1,1
+1224,da963f8f-87f1-4a22-a433-685576acc044,Seeds of Destiny,1946,1,1
+1225,4a62c930-ad78-4033-9ae4-a7417cc21923,Separate Tables,1958,2,7
+1226,4d17efdb-90c3-46e9-abf9-7201c1a65cb3,Serengeti Shall Not Die (Serengeti darf nicht sterben),1959,1,1
+1227,9a562559-bd98-4c00-9096-20c62b5e57dd,Sergeant York,1941,2,11
+1228,7e5ed8f0-13a7-4747-8ee4-d18c6c476386,Seven Brides for Seven Brothers,1954,1,5
+1229,3d9a0336-892b-42ca-9812-5d1fbe101b8b,Seven Days to Noon,1951,1,1
+1230,baa4f898-4101-4e96-af03-579d73332987,The Seventh Veil,1946,1,1
+1231,499e7221-dcde-4322-89c5-a382d98a2699,Shane,1953,1,6
+1232,bdb8cd2a-db97-4452-a05e-c9aa68476579,Shanghai Express,1931/32,1,3
+1233,ceb17353-5d99-4480-b796-d87067be69a1,She Wore a Yellow Ribbon,1949,1,1
+1234,793a0c86-eaf6-4c81-beef-819fe326a23c,Shoeshine (Sciuscià),1947,0 (1),1
+1235,f18a5a73-4d39-48ce-b992-4e6e355f3927,The Silent World (Le Monde du silence),1956,1,1
+1236,55d5af7b-3c48-414f-99c3-4f31e0fc99aa,The Sin of Madelon Claudet,1931/32,1,1
+1237,3324876a-fdab-4ec7-93bd-c10a6018b926,Since You Went Away,1944,1,9
+1238,26319683-d2ff-4267-81b9-7d884b30b820,Skippy,1930/31,1,4
+1239,67865aa2-7097-4f43-b7e1-bfaf4cded1e6,Sky Above and Mud Beneath (Le Ciel et la boue),1961,1,1
+1240,b2e9e03f-2d18-443d-b8d6-bf08eb3564e3,The Snake Pit,1948,1,6
+1241,198cca4d-ad51-4e8e-ab6b-ea289a7d86ea,Snow White and the Seven Dwarfs,1937,0 (1),1
+1242,651ef7a8-5e2a-4c7f-86be-735c8a13beea,So Much for So Little,1949,1,1
+1243,0a55cde4-28d9-4c91-8bb4-ba994e7db141,So This Is Harris!,1932/33,1,1
+1244,5803a1f4-b0a8-4875-afaa-4b8d0562fa55,The Solid Gold Cadillac,1956,1,2
+1245,8ed7b203-5425-4e1c-80eb-87797664f32d,Some Like It Hot,1959,1,6
+1246,2e9fd100-aa46-4c2c-be46-1aefe062ecb0,Somebody Up There Likes Me,1956,2,3
+1247,03f20161-10ac-44b2-a86a-07abf693c80b,The Song of Bernadette,1943,4,12
+1248,fcaa8502-9d69-4290-a3b9-1b18a2732d72,Song of the South,1947,1 (1),2
+1249,e01a5ec0-5fc1-401b-a9d5-f9cb716cf1a1,Song Without End,1960,1,1
+1250,61b6695f-523f-44c9-a670-419a5a054d6a,Sons and Lovers,1960,1,7
+1251,304d3e2d-f865-49d1-999b-41ec7cd6b25d,Sons of Liberty,1939,1,1
+1252,c04e9fa1-f8a2-4c29-99b1-b0155fe4a7e8,South Pacific,1958,1,3
+1253,e630ccff-75c5-4763-8008-7b88c921feef,Spartacus,1960,4,6
+1254,8824b446-4e4d-44c5-b1e7-09ecfdcf5a28,Spawn of the North,1938,0 (1),0
+1255,7353b8a3-8230-4fa9-aa06-94deef3de353,Speaking of Animals and Their Families,1942,1,1
+1256,641fe5bb-9008-4155-82bc-0acfa6cdb98d,Speedy Gonzales,1955,1,1
+1257,23752804-2d9b-4484-9262-1ce4567bd513,Spellbound,1945,1,6
+1258,21a19396-0b35-4574-8b01-527e6a4d8753,Splendor in the Grass,1961,1,2
+1259,f9560deb-5147-47ca-8432-dce9a9fb29f4,Stagecoach,1939,2,7
+1260,65ebb9ac-c1a7-4d5e-87ce-b500b4af2887,Stairway to Light,1945,1,1
+1261,392279bd-148e-4605-a787-8455c6f6dceb,Stalag 17,1953,1,3
+1262,7544c343-029a-43f6-9e7f-11c49045e523,Star in the Night,1945,1,1
+1263,3f685b58-2089-4fe9-a515-4af1e6969c2e,A Star Is Born,1937,1 (1),7
+1264,a8292a41-fa1b-49eb-b1fc-331887881795,State Fair,1945,1,2
+1265,c472231c-7139-4560-add8-2e2302d840b7,The Story of Louis Pasteur,1936,3,4
+1266,8ec5fb25-2ab2-4ec0-8541-b0481a536f2d,The Stratton Story,1949,1,1
+1267,e0d00fe9-1e65-476b-aa62-6f0c28ad534c,Street Angel,1927/28,1,3
+1268,5143b35f-2a17-4078-97a4-dd57b012b6a8,A Streetcar Named Desire,1951,4,12
+1269,3517f645-21f0-4ae9-83ec-75810adf4d0d,Strike Up the Band,1940,1,3
+1270,cb6894d6-4a0b-419d-b8f2-b74659902541,The Substitute,1961,1,1
+1271,c467298f-9998-4532-bdda-781c245eed7c,Sundays and Cybele (Le Dimanches de Ville d'Avray),1962,1,3
+1272,4545d9d5-7505-4a57-ba83-b5a7b09b07af,Sunrise,1927/28,3,4[9]
+1273,e223e0ca-3a7c-4ec9-b5ec-eebd4d8a3437,Sunset Boulevard,1950,3,11
+1274,3a41805d-f413-48af-a2f8-45c4f9bd98b1,Survival City,1955,1,1
+1275,6a5c89c2-f804-4e88-93f0-ddc87d23f39a,Suspicion,1941,1,3
+1276,c993c87d-d0a3-4645-8c25-d8c6a6123df4,Sweet Bird of Youth,1962,1,3
+1277,ca283cae-e0cf-4e07-9fa9-31d5b0540e8b,Sweethearts,1938,0 (1),2
+1278,bff0c34d-7948-4dc5-b70f-e819132ef40e,Swing Time,1936,1,2
+1279,c870dfbf-0eff-435c-9f0a-ef7882f2cc1b,Symphony of a City,1948,1,1
+1280,27f4d680-a5e3-45a6-af19-c181bd319af4,Tabu,1930/31,1,1
+1281,75a148fa-887d-4b24-94d0-49671697b7bd,Target for Tonight,1941,0 (1),0
+1282,4d49b50d-464a-433b-8707-5499edccee17,"Teddy, the Rough Rider",1940,1,1
+1283,cdfd2c24-85cf-4974-b444-dbe303e1696a,Tempest,1927/28,1,1
+1284,d5704ab4-8138-4ab7-9a29-676192b13d63,The Ten Commandments,1956,1,7
+1285,52eec098-c74e-4591-8232-e44f1f73ad5a,That Hamilton Woman,1941,1,4
+1286,a41fecbb-a724-4955-8404-099e1625bd14,That Mothers Might Live,1938,1,1
+1287,2d97659b-08ee-4a2c-9882-6eccfb914c69,The Thief of Bagdad,1940,3,4
+1288,ccdd40db-bde1-4433-981e-7fc2dc92016f,The Third Man,1950,1,3
+1289,023668a7-d87a-4fd4-ae3f-801439f091a3,Thirty Seconds Over Tokyo,1944,1,2
+1290,9a48d742-ed34-466c-ba28-079d8cd24c62,This Above All,1942,1,4
+1291,d7083650-22fb-4f31-8a85-9538c0956374,This Is the Army,1943,1,3
+1292,53e879f1-b55a-42de-9b5e-c7ac54bbc4de,This Land Is Mine,1943,1,1
+1293,cb58ff74-16b3-4ce6-98ed-b883db1cff30,This Mechanical Age,1954,1,1
+1294,7247c7b1-d8b2-418f-96b9-a6ac6c8c1d47,Three Coins in the Fountain,1954,2,3
+1295,55501e1a-16ff-495b-bb2a-91b9795b27d8,The Three Faces of Eve,1957,1,1
+1296,282569a4-9938-4dd3-8140-f5d4de7d02dd,Three Little Pigs,1932/33,1,1
+1297,798f3268-7c34-476d-bfd6-d7fff2483a2f,Three Orphan Kittens,1935,1,1
+1298,a0ec7305-fd29-49fd-9b4f-350d70f0978e,Through a Glass Darkly (Såsom i en spegel),1961,1,2
+1299,66c6bde7-2fea-461f-bdc8-34214f29ca03,Thunderball,1965,1,1
+1300,b976c93a-af01-486a-b48b-fefc7f7397bf,Thursday's Children,1954,1,1
+1301,364606f8-8e7d-47c2-a90b-1986bd388309,The Time Machine,1960,1,1
+1302,6f83a0e9-1c08-4484-8012-94b74f0fac6f,A Time Out of War,1954,1,1
+1303,7859c941-d66e-4a5d-9870-b8e47306375a,Tin Pan Alley,1940,1,1
+1304,e3442590-ed16-4178-bb6a-c8fc0940c21d,The Titan: Story of Michelangelo,1950,1,1
+1305,ae14f99f-70ca-4d6b-9369-90d341d6ceea,Titanic,1953,1,2
+1306,350f5ee1-7d70-4682-bf5f-12686be10616,To Catch a Thief,1955,1,3
+1307,35e0ae7e-d276-4634-b21f-eb556bdeb740,To Each His Own,1946,1,2
+1308,64a50737-df95-453b-8e23-c55325052bd0,To Kill a Mockingbird,1962,3,8
+1309,6f7443d0-20e8-4973-aba7-dcf7159aa49b,Tom Jones,1963,4,10
+1310,9eb11291-0117-499e-94ac-e724db273ba0,tom thumb,1958,1,1
+1311,321b211e-513b-4189-a48c-0dd2cc5a3c9d,"Toot, Whistle, Plunk and Boom",1953,1,1
+1312,1a5a3878-5a3b-4c93-9098-ba1507262278,Topkapi,1964,1,1
+1313,b8ebc544-6196-4bc1-b204-c8bd76d624e2,The Tortoise and the Hare,1934,1,1
+1314,290e42c0-86ae-4730-bc2d-3dc482a6af88,Torture Money,1937,1,1
+1315,ad86ca7a-625d-4862-af8e-1a7f197de6bb,Toward Independence,1948,1,1
+1316,7cedcb89-dc58-4d5d-9f40-4b8d003def3d,Transatlantic,1931/32,1,1
+1317,085a3ff9-de05-4f78-b780-962c87dbe6e5,The Treasure of the Sierra Madre,1948,3,4
+1318,eee622dd-fe44-456f-a216-fd941e5332e2,A Tree Grows in Brooklyn,1945,1,2
+1319,a4df5788-ba06-4f9a-a8ae-8114391d17c6,The True Glory,1945,1,1
+1320,0a06cb10-e539-48a1-9376-5ca25d4c70aa,The True Story of the Civil War,1956,1,1
+1321,09fa89c8-d36e-4874-b60a-dd8199bb5151,Tweetie Pie,1947,1,1
+1322,52383ac1-f023-4a67-8f84-078d5364c45e,Twelve O'Clock High,1949,2,4
+1323,7da1c913-d231-4c82-bed0-5c797aa9fb1c,Two Arabian Knights,1927/28,1,1
+1324,cef67209-5c43-4299-99cb-8c733d302efa,The Two Mouseketeers,1951,1,1
+1325,fdbf6e33-9403-4680-8b73-21ec74940422,Two Women (La Ciociara),1961,1,1
+1326,bb9085ba-9a62-4d8e-be26-04059926c609,The Ugly Duckling,1939,1,1
+1327,6bf1b490-0d4a-4d15-a35c-ad3df2cfea58,Underworld,1927/28,1,1
+1328,5665968a-ced8-4cc5-b768-222289ce6d3b,The V.I.P.s,1963,1,1
+1329,42eb6e1e-d60b-4bca-9413-1b156ee7550e,Vacation from Marriage (UK title Perfect Strangers),1946,1,1
+1330,f51cc58a-6d22-445e-aff6-e5b453f57adb,Van Gogh,1949,1,1
+1331,f7d70322-38ae-49c2-b1ca-bf5b4813d41a,The Vanishing Prairie,1954,1,1
+1332,05261c7c-2e1e-42cc-aa81-cd8ba5bca3ca,The Virgin Spring (Jungfrukällan),1960,1,2
+1333,e82d4c95-5d48-456a-a750-84b8c861b3b3,Viva Villa!,1934,1,4
+1334,f3a5d09f-4a36-4ce5-932d-9a0ec9c0cbd2,Viva Zapata!,1952,1,5
+1335,2d28f393-8b91-4cad-9b36-1b78d65aa30c,Waikiki Wedding,1937,1,2
+1336,269d0231-709b-4ff7-893c-48f1b1e25d39,The Walls of Malapaga,1950,0 (1),0
+1337,858b2246-1abb-443a-a517-143fc65bf7a5,The War of the Worlds,1953,1,3
+1338,d5528a26-711e-47a6-9b90-adc70936829e,Watch on the Rhine,1943,1,4
+1339,9f18b478-f73e-42f0-a558-a7546dfcac37,Water Birds,1952,1,1
+1340,59d5b937-f749-4f3b-8c0d-68c54278b6b1,The Way of All Flesh,1927/28,1,1
+1341,760a1ec1-bca8-4ee8-9575-bc20bb5ebb87,West Side Story,1961,10,11
+1342,d4667e56-bd53-4e57-acda-fd0880896172,The Westerner,1940,1,3
+1343,9b75ce76-3ce5-4e09-92bc-91b454e6a873,The Wetback Hound,1957,1,1
+1344,1c9c7fe1-28ea-41e7-90dd-a04bf8af1052,What Ever Happened to Baby Jane?,1962,1,5
+1345,a9b91455-707f-4283-95b8-bd6063f9dbed,When Tomorrow Comes,1939,1,1
+1346,6819ac50-8b3e-4e63-96a8-aac801474dc3,When Magoo Flew,1954,1,1
+1347,e79bdff0-dd71-4051-bba2-e4d6079067b6,When Worlds Collide,1951,1,2
+1348,809523a5-3e2b-4f04-9b84-4b8c8f514ea8,White Shadows in the South Seas,1928/29,1,1
+1349,69e8cb7b-beac-41b4-aab8-0c9927da376c,White Wilderness,1958,1,2
+1350,4a9d8daf-f018-4578-8eed-1f3ad5329cb1,Who's Who in Animal Land,1944,1,1
+1351,2dac0388-d3ca-4e04-9843-c45591c6ab06,Why Korea?,1950,1,1
+1352,915e116c-f81a-4eea-a3af-8553bab59436,Wilson,1944,5,10
+1353,bf132aa9-0313-4576-89a4-c2fd16ccd985,Wings,1927/28,2,2
+1354,7219c6ce-06c7-4acb-91e3-1cc1225ac82d,Wings Over Everest,1935,1,1
+1355,244f2a84-69c5-4fe5-8fed-d0d9b0e7da83,With a Song in My Heart,1952,1,5
+1356,8ca32d22-1131-45d6-a9c7-de3d5c0aecce,With Byrd at the South Pole,1929/30,1,1
+1357,7d03f5a1-a788-4edf-b268-70d368447704,With the Marines at Tarawa,1944,1,1
+1358,523649ef-866c-4968-ba42-e08b3183588c,The Wizard of Oz,1939,2,6[10]
+1359,6df627d4-2c76-455a-aadf-d47c552712fd,Woman of the Year,1942,1,2
+1360,ee26639d-8cd0-45f8-8c24-3c776f10789f,Wonder Man,1945,1,4
+1361,0f4400b7-a565-47d3-b96f-ae5d6a028bb7,The Wonderful World of the Brothers Grimm,1962,1,4
+1362,67aed5eb-239d-4778-881e-7d05d0214757,World of Kids,1951,1,1
+1363,e55a2ade-3746-4b0a-9dff-f242b8a3d57e,World Without Sun (Le Monde sans soleil),1964,1,1
+1364,68bd365e-724d-4cf2-8a18-2b09bdf1645b,Wrestling Swordfish,1931/32,1,1
+1365,495f978c-2bc4-4cbf-9317-6642aee38e63,Written on the Wind,1956,1,3
+1366,d65b9557-ba5e-45f3-8fcb-138feb2ce158,Wuthering Heights,1939,1,8
+1367,6e9f7cae-352e-4282-89e0-39c326320bd9,Yankee Doodle Dandy,1942,3,8
+1368,0e665c18-c1b8-4c2e-9c58-3efcce052fe1,The Yankee Doodle Mouse,1943,1,1
+1369,8b76fb29-0e80-4d6d-9a56-ab4985108498,The Yearling,1946,2,7
+1370,9e90fbfb-da84-4d88-8b8d-2e2a6d940eee,"Yesterday, Today and Tomorrow (Ieri, oggi, domani)",1964,1,1
+1371,e6355882-2c46-4f0f-a33d-b33c50fd19da,You Can't Take It with You,1938,2,7
+1372,69261fa4-e0e0-43a1-88a1-b6a1bb08c7f5,Zorba the Greek (Alexis Zorbas),1964,3,7

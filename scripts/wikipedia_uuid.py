@@ -1,4 +1,5 @@
 from wiki import BeautifulSoup as bs, requests, logging, uuid, pd, fetchPage, exportToCsv, exportToJson
+from database import initDB, insertRow, Films, TestTable
 
 def scrape_oscar_winning_films():
     url = "https://en.wikipedia.org/wiki/List_of_Academy_Award%E2%80%93winning_films"
@@ -32,10 +33,30 @@ def main():
     df = scrape_oscar_winning_films()
     
     # Print only the first 5 records
-    print(df.head().to_string(index=False))
+    # print(df.head().to_string(index=False))
     
-    exportToCsv(df)
-    exportToJson(df)
+    # exportToCsv(df)
+    # exportToJson(df)
+    initDB()
+    newFilmRow = Films("asdf33dddd33", "plssaddnes", 3000)
+    newTestRow = TestTable("slsldsls", "some text")
+
+    ## test that the funciton doesn't accept any other classes other than the specified ones
+    # class Random:
+    #     id: int
+    #     def __init__(self, id):
+    #         self.id = id
+
+    # random = Random(4)
+    # insertRow(random)
+    # print("inserted random")
+
+    insertRow(newFilmRow)
+    print("inserted film")
+    insertRow(newTestRow)
+    print("inserted test")
+    
+    
 
 if __name__ == "__main__":
     main()
