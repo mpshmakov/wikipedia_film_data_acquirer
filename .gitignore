@@ -17,4 +17,6 @@ mock-user-data.log
 # Others
 .vscode
 push.sh
+test.csv
+test.json
 
