@@ -41,14 +41,14 @@ class TestWikiFunctions(unittest.TestCase):
         mock_response = MagicMock()
         mock_response.status_code = 200
         mock_get.return_value = mock_response
-        response = fetchPage('https://example.com')
+        response = fetchPage('https://google.com')
         self.assertEqual(response.status_code, 200)
 
     @patch('requests.get')
     def test_fetchPage_exception(self, mock_get):
         mock_get.side_effect = Exception('Network error')
         with self.assertRaises(Exception):
-            fetchPage('https://example.com')
+            fetchPage('https://google.com')
 
 class TestExportFunctions(unittest.TestCase):
     @patch('pandas.DataFrame.to_csv')
