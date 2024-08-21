@@ -12,6 +12,8 @@ def initDB():
     # session.commit()
     
 
-def insertRow(row: (Films | TestTable)):
+def insertRowInTable(row: (Films | TestTable)):
     session.add(row)
     session.commit()
+
+def pdToTable()
