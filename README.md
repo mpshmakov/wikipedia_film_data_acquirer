@@ -21,8 +21,11 @@ deactivate
 ## Actual Application
 python3 -m scripts.wikipedia_uuid
 
-## Unit Test
-python3 -m unittest discover
+## Unit Test with Coverage
+coverage run -m unittest discover
+
+## Generate Coverage Report
+coverage report -m
 ```
 
 ### Versioning

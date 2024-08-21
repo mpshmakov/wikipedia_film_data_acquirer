@@ -19,4 +19,4 @@ mock-user-data.log
 push.sh
 test.csv
 test.json
-
+.coverage

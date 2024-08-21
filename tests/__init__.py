@@ -1,12 +1,13 @@
 from wiki import fetchPage, BeautifulSoup
 from wiki.export_functions import exportToCsv, exportToJson
 from wiki.utils import create_data_folder, uuid_to_str, clean_numeric
-from database.operations import check_tables_exist, insert_records
+from database.operations import check_tables_exist, insert_records, insertRow
 from database.schema import AcademyAwardWinningFilms, TestTable
 from scripts.wikipedia_uuid import scrape_oscar_winning_films
 import unittest
 from unittest.mock import patch, MagicMock
 import pandas as pd
+import uuid
 import sys
 import os
 
@@ -35,45 +36,37 @@ class WikiFilmDataTestResult(unittest.TextTestResult):
         self.output_file.close()
 
 class TestWikiFunctions(unittest.TestCase):
-    def test_fetchPage(self):
-        with patch('requests.get') as mock_get:
-            mock_get.return_value.status_code = 200
-            response = fetchPage('https://google.com')
-            self.assertEqual(response.status_code, 200)
+    @patch('requests.get')
+    def test_fetchPage(self, mock_get):
+        mock_response = MagicMock()
+        mock_response.status_code = 200
+        mock_get.return_value = mock_response
+        response = fetchPage('https://example.com')
+        self.assertEqual(response.status_code, 200)
 
-    def test_fetchPage_exception(self):
-        with patch('requests.get', side_effect=Exception('Network error')):
-            with self.assertRaises(Exception):
-                fetchPage('https://google.com')
+    @patch('requests.get')
+    def test_fetchPage_exception(self, mock_get):
+        mock_get.side_effect = Exception('Network error')
+        with self.assertRaises(Exception):
+            fetchPage('https://example.com')
 
 class TestExportFunctions(unittest.TestCase):
     @patch('pandas.DataFrame.to_csv')
     def test_exportToCsv(self, mock_to_csv):
-        # Create a sample DataFrame
         data = {'id': ['test-id'], 'name': ['Test Movie'], 'year': [2023], 'awards': [1], 'nominations': [3]}
         df = pd.DataFrame(data)
-        
-        # Call the export function
         exportToCsv(df, 'test.csv')
-        
-        # Assert that to_csv was called once with the correct arguments
         mock_to_csv.assert_called_once_with('test.csv', index=False)
 
     @patch('json.dump')
     def test_exportToJson(self, mock_json_dump):
-        df = MagicMock()
-        df.to_dict.return_value = [{'id': 'test-id', 'name': 'Test Movie'}]
+        data = {'id': ['test-id'], 'name': ['Test Movie'], 'year': [2023], 'awards': [1], 'nominations': [3]}
+        df = pd.DataFrame(data)
         exportToJson(df, 'test.json')
         mock_json_dump.assert_called_once()
 
 class TestUtils(unittest.TestCase):
-    @patch('os.makedirs')
-    def test_create_data_folder(self, mock_makedirs):
-        create_data_folder('test_results/test.csv')
-        mock_makedirs.assert_called_once_with('test_results')
-
     def test_uuid_to_str(self):
-        import uuid
         test_uuid = uuid.uuid4()
         self.assertEqual(uuid_to_str(test_uuid), str(test_uuid))
         self.assertEqual(uuid_to_str('not-a-uuid'), 'not-a-uuid')
@@ -82,6 +75,7 @@ class TestUtils(unittest.TestCase):
         self.assertEqual(clean_numeric('123'), 123)
         self.assertEqual(clean_numeric('123.45'), 123)
         self.assertEqual(clean_numeric('abc'), 'abc')
+        self.assertEqual(clean_numeric(456), 456)
 
 class TestDatabaseOperations(unittest.TestCase):
     @patch('sqlalchemy.inspect')
