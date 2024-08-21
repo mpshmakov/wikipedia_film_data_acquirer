@@ -18,7 +18,11 @@ deactivate
 ### Usage
 
 ```python
+## Actual Application
 python3 -m scripts.wikipedia_uuid
+
+## Unit Test
+python3 -m unittest discover
 ```
 
 ### Versioning
