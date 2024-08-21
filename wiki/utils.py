@@ -12,3 +12,11 @@ def uuid_to_str(obj):
     if isinstance(obj, uuid.UUID):
         return str(obj)
     return obj
+
+def clean_numeric(value):
+    if isinstance(value, str):
+        if value.isdigit():
+            return int(value)
+        elif value.replace('.', '', 1).isdigit() and value.count('.') <= 1:
+            return int(float(value))
+    return value

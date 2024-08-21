@@ -18,6 +18,3 @@ mock-user-data.log
 .vscode
 push.sh
 
-# Generated data
-data
-*.db
