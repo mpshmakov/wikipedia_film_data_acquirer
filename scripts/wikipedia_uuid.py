@@ -8,6 +8,7 @@ from wiki.utils import clean_numeric
 def scrape_oscar_winning_films():
     url = "https://en.wikipedia.org/wiki/List_of_Academy_Award%E2%80%93winning_films"
     response = fetchPage(url)
+    print(response.content) # to see if return_value of the fetchPage changes when i test this function
     soup = bs(response.content, features="html.parser")
     logging.info("Created the soup.")
     try:

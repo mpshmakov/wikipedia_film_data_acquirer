@@ -1,7 +1,8 @@
+import requests
 from wiki import fetchPage, BeautifulSoup
 from wiki.export_functions import exportToCsv, exportToJson
 from wiki.utils import create_data_folder, uuid_to_str, clean_numeric
-from database.operations import check_tables_exist, insert_records, insertRow
+from database.operations import check_tables_exist, initDB, initialize_schema, insert_records, insertRow, engine
 from database.schema import AcademyAwardWinningFilms, TestTable
 from scripts.wikipedia_uuid import scrape_oscar_winning_films
 import unittest
@@ -10,6 +11,8 @@ import pandas as pd
 import uuid
 import sys
 import os
+from sqlalchemy.exc import SQLAlchemyError
+
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
@@ -90,6 +93,14 @@ class TestDatabaseOperations(unittest.TestCase):
         mock_session.add_all.assert_called_once_with(records)
         mock_session.commit.assert_called_once()
 
+    @patch('sqlalchemy.orm.Session')
+    def test_insert_records_exception(self, mock_session):
+        records = [MagicMock(), MagicMock()]
+        mock_session.commit.side_effect = SQLAlchemyError()
+        with self.assertRaises(SQLAlchemyError):
+            insert_records(mock_session, records)
+
+
 class TestDatabaseSchema(unittest.TestCase):
     def test_AcademyAwardWinningFilms(self):
         film = AcademyAwardWinningFilms('test-id', 'Test Film', 2020, 1, 5)
@@ -108,18 +119,35 @@ class TestWikipediaUUID(unittest.TestCase):
     @patch('wiki.fetchPage')
     @patch('bs4.BeautifulSoup')
     def test_scrape_oscar_winning_films(self, mock_bs, mock_fetchPage):
-        mock_response = MagicMock()
-        mock_fetchPage.return_value = mock_response
-        mock_soup = MagicMock()
-        mock_bs.return_value = mock_soup
+        # mock_response = MagicMock()
+        # mock_fetchPage.return_value = mock_response
+        # mock_soup = MagicMock()
+        # mock_bs.return_value = mock_soup
 
-        mock_tr = MagicMock()
-        mock_tr.find_all.return_value = [MagicMock(text='Film'), MagicMock(text='2020'), MagicMock(text='1'), MagicMock(text='5')]
-        mock_soup.find.return_value.find.return_value.find_all.return_value = [mock_tr]
+        # mock_tr = MagicMock()
+        # mock_tr.find_all.return_value = [MagicMock(text='Film'), MagicMock(text='2020'), MagicMock(text='1'), MagicMock(text='5')]
+        # mock_soup.find.return_value.find.return_value.find_all.return_value = [mock_tr]
 
         results = scrape_oscar_winning_films()
         self.assertEqual(len(results), 1373)
         self.assertEqual(len(results[0]), 5)  # id, film, year, awards, nominations
+
+    # neither of the tests below are working and i can't figure out why that is
+    @patch('wiki.fetchPage')
+    def test_scrape_oscar_winning_films_exception(self, mock_fetchPage):
+        mock_response = requests.get("https://www.google.com/")
+        print("mock response: ", mock_response)
+        mock_fetchPage.return_value = mock_response
+        print(mock_fetchPage())
+
+        with self.assertRaises(Exception):
+            scrape_oscar_winning_films()
+
+    # @patch('bs4.BeautifulSoup')
+    # def test_scrape_oscar_winning_films_exception2(self, mock_bs):
+    #     mock_bs.return_value = ""
+    #     with self.assertRaises(Exception):
+    #         scrape_oscar_winning_films()
 
 if __name__ == '__main__':
     unittest.main(testRunner=unittest.TextTestRunner(resultclass=WikiFilmDataTestResult))
