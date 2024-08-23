@@ -28,6 +28,22 @@ coverage run -m unittest discover
 coverage report -m
 ```
 
+### Current Code Coverage
+
+The ones to address are `database/operations.py` and `scripts/wikipedia_uuid.py`
+
+| Name | Stmts | Miss | Cover | Missing |
+|------|-------|------|-------|---------|
+| database/__init__.py | 17 | 0 | 100% | |
+| database/operations.py | 63 | 44 | 30% | 25-47, 75-78, 90-106, 118-132 |
+| database/schema.py | 24 | 0 | 100% | |
+| scripts/wikipedia_uuid.py | 60 | 29 | 52% | 37-39, 61-100, 104 |
+| tests/__init__.py | 105 | 12 | 89% | 18-21, 24-25, 28-29, 32-33, 36, 125 |
+| wiki/__init__.py | 19 | 2 | 89% | 44-45 |
+| wiki/export_functions.py | 15 | 0 | 100% | |
+| wiki/utils.py | 19 | 2 | 89% | 21-22 |
+| **TOTAL** | **322** | **89** | **72%** | |
+
 ### Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/moatsystems/imdb_scrapy/tags).
