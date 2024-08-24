@@ -30,19 +30,20 @@ coverage report -m
 
 ### Current Code Coverage
 
-The ones to address are `database/operations.py` and `scripts/wikipedia_uuid.py`
-
 | Name | Stmts | Miss | Cover | Missing |
 |------|-------|------|-------|---------|
 | database/__init__.py | 17 | 0 | 100% | |
-| database/operations.py | 63 | 44 | 30% | 25-47, 75-78, 90-106, 118-132 |
+| database/operations.py | 63 | 4 | 94% | 104-106, 130 |
 | database/schema.py | 24 | 0 | 100% | |
-| scripts/wikipedia_uuid.py | 60 | 29 | 52% | 37-39, 61-100, 104 |
-| tests/__init__.py | 105 | 12 | 89% | 18-21, 24-25, 28-29, 32-33, 36, 125 |
+| scripts/wikipedia_uuid.py | 61 | 29 | 80% | 38-40, 68-69, 81-82, 98-101, 105 |
+| tests/__init__.py | 205 | 12 | 93% | 21-24, 27-28, 31-32, 35-36, 39, 145-146, 246 |
 | wiki/__init__.py | 19 | 2 | 89% | 44-45 |
 | wiki/export_functions.py | 15 | 0 | 100% | |
 | wiki/utils.py | 19 | 2 | 89% | 21-22 |
-| **TOTAL** | **322** | **89** | **72%** | |
+| **TOTAL** | **423** | **34** | **92%** | |
+
++ Ran 22 tests in 7.624s.
++ FAILED (failures=2, errors=2) < Address Later
 
 ### Versioning
 
