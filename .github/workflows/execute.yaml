@@ -4,8 +4,9 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
   schedule:
-    - cron: "33 14 * * *"
+    - cron:  '35 13 * * *'
 
 jobs:
   build-and-run:
