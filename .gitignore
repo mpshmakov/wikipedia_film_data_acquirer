@@ -21,3 +21,4 @@ test.csv
 test.json
 .coverage
 wikipedia_uuid.prof
+.pytest_cache

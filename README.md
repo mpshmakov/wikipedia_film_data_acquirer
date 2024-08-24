@@ -26,6 +26,9 @@ coverage run -m unittest discover
 
 ## Generate Coverage Report
 coverage report -m
+
+## Pytest
+pytest
 ```
 
 > You can keep the `data` directory. It's a small project, so you are not storing large files in the repository.
