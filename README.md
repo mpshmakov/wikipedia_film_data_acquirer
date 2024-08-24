@@ -35,17 +35,14 @@ coverage report -m
 | Name | Stmts | Miss | Cover | Missing |
 |------|-------|------|-------|---------|
 | database/__init__.py | 17 | 0 | 100% | |
-| database/operations.py | 63 | 4 | 94% | 104-106, 130 |
+| database/operations.py | 77 | 7 | 91% | 128-131, 134-136 |
 | database/schema.py | 24 | 0 | 100% | |
-| scripts/wikipedia_uuid.py | 61 | 29 | 80% | 38-40, 68-69, 81-82, 98-101, 105 |
-| tests/__init__.py | 205 | 12 | 93% | 21-24, 27-28, 31-32, 35-36, 39, 145-146, 246 |
+| scripts/wikipedia_uuid.py | 67 | 12 | 82% | 35, 51, 54, 71-72, 84-85, 101-104, 107 |
+| tests/__init__.py | 205 | 12 | 94% | 21-24, 27-28, 31-32, 35-36, 39, 247 |
 | wiki/__init__.py | 19 | 2 | 89% | 44-45 |
 | wiki/export_functions.py | 15 | 0 | 100% | |
 | wiki/utils.py | 19 | 2 | 89% | 21-22 |
-| **TOTAL** | **423** | **34** | **92%** | |
-
-+ Ran 22 tests in 7.624s.
-+ FAILED (failures=2, errors=2) < Address Later
+| **TOTAL** | **440** | **35** | **92%** | |
 
 ### Versioning
 

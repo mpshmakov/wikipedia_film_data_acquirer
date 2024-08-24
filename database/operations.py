@@ -2,7 +2,7 @@
 Database operations module.
 
 This module provides functions for initializing the database schema,
-checking table existence, and inserting records into the database.
+checking table existence, inserting records into the database, and truncating tables.
 """
 
 from sqlalchemy import inspect, Table, MetaData
@@ -54,32 +54,50 @@ def check_tables_exist():
         bool: True if all required tables exist, False otherwise.
     """
     inspector = inspect(engine)
-    tables = inspector.get_table_names()
-    return 'academy_award_winning_films' in tables and 'TestTable' in tables
+    existing_tables = inspector.get_table_names()
+    required_tables = ['academy_award_winning_films', 'TestTable']
+    return all(table in existing_tables for table in required_tables)
 
-def insert_records(session, records):
+def truncate_tables(session):
+    """
+    Truncate all tables in the database.
+
+    Args:
+        session (Session): SQLAlchemy session object.
+
+    Raises:
+        SQLAlchemyError: If there's an error during table truncation.
+    """
+    for table in [AcademyAwardWinningFilms, TestTable]:
+        session.query(table).delete()
+    logging.info("All tables truncated successfully.")
+
+def insert_records(session, records, commit=True):
     """
     Insert multiple records into the database.
 
     Args:
         session (Session): SQLAlchemy session object.
         records (list): List of record objects to be inserted.
+        commit (bool): Whether to commit the session after insertion.
 
     Raises:
         SQLAlchemyError: If there's an error during record insertion.
     """
     try:
         session.add_all(records)
-        session.commit()
+        if commit:
+            session.commit()
         logging.info(f"{len(records)} records inserted successfully.")
     except SQLAlchemyError as e:
-        session.rollback()
+        if commit:
+            session.rollback()
         logging.error(f"Error inserting records: {str(e)}")
         raise
 
 def initDB(records):
     """
-    Initialize the database by creating schema and inserting initial records.
+    Initialize the database by creating schema, truncating existing tables, and inserting initial records.
 
     Args:
         records (list): List of record objects to be inserted after schema creation.
@@ -98,7 +116,19 @@ def initDB(records):
         
         session = Session()
         try:
-            insert_records(session, records)
+            # Truncate existing tables
+            truncate_tables(session)
+            
+            # Insert new records without committing
+            insert_records(session, records, commit=False)
+            
+            # Commit all changes in a single transaction
+            session.commit()
+            logging.info("Database initialized successfully with new records.")
+        except SQLAlchemyError as e:
+            session.rollback()
+            logging.error(f"Error during database initialization: {str(e)}")
+            raise
         finally:
             session.close()
     except Exception as e:
