@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "32 14 * * *"
+    - cron: "33 14 * * *"
 
 jobs:
   build-and-run:
@@ -17,6 +17,12 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: "3.x"
+
+      - name: Print current time
+        run: |
+          echo "Current time: $(date)"
+          echo "Current time (UTC): $(date -u)"
+          echo "TimeZone: $TZ"
 
       - name: Install dependencies
         run: |
