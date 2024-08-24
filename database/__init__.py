@@ -1,10 +1,3 @@
-"""
-Database initialization module.
-
-This module sets up the database connection, creates the necessary directories,
-and imports the required components for database operations.
-"""
-
 import os
 import logging
 from sqlalchemy import create_engine
