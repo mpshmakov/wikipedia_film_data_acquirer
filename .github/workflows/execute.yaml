@@ -19,17 +19,20 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Print current time
+      - name: Print Current Time
         run: |
           echo "Current time: $(date)"
           echo "Current time (UTC): $(date -u)"
           echo "TimeZone: $TZ"
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip --version
           pip install -r requirements.txt
 
-      - name: Run Wikipedia UUID script
+      - name: Run Tests
+        run: pytest
+
+      - name: Run Wikipedia UUID Script
         run: python3 -m scripts.wikipedia_uuid
