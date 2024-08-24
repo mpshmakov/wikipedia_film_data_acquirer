@@ -1,14 +1,11 @@
 name: Execute Wikipedia Script
 
 on:
-  schedule:
-    # This will run the job every day at 6:00 AM UTC    
-    - cron: '24 14 * * *'
-
-on:
   push:
     branches:
       - main
+  schedule:
+    - cron: "26 14 * * *"
 
 jobs:
   build-and-run:
@@ -30,5 +27,3 @@ jobs:
 
       - name: Run Wikipedia UUID script
         run: python3 -m scripts.wikipedia_uuid
-
-  
