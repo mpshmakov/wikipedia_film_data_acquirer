@@ -19,6 +19,7 @@ jobs:
         env:
           DEFAULT_BRANCH: main
           VALIDATE_PYTHON_ISORT: true
+          VALIDATE_PYTHON_BLACK: true
           VALIDATE_ALL_CODEBASE: false
           IGNORE_GITIGNORED_FILES: true
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -39,6 +40,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           VALIDATE_PYTHON_ISORT: true
           FIX_PYTHON_ISORT: true
+          VALIDATE_PYTHON_BLACK: true
+          FIX_PYTHON_BLACK: true
       - name: commit and push fixes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
