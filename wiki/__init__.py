@@ -5,20 +5,22 @@ This module sets up logging and imports necessary components for web scraping
 and data processing operations.
 """
 
+import json
+import logging
+
 # Standard library imports
 import os
 import uuid
-import json
-import logging
 
 # Third-party imports
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
+from .export_functions import exportToCsv, exportToJson
+
 # Local imports
 from .utils import create_data_folder, uuid_to_str
-from .export_functions import exportToCsv, exportToJson
 
 # Setup logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')

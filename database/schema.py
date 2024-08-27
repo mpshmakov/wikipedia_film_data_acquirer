@@ -4,7 +4,7 @@ Database schema module.
 This module defines the SQLAlchemy ORM models for the database tables.
 """
 
-from sqlalchemy import Column, String, Integer, CheckConstraint
+from sqlalchemy import CheckConstraint, Column, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
 
 Base = declarative_base()
