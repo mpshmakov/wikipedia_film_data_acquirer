@@ -6,9 +6,20 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: '45 5 * * *'
+    - cron: "45 5 * * *"
 
 jobs:
+  formatting-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Super Linter
+        uses: super-linter/super-linter/slim@v7.0.0
+        env:
+          DEFAULT_BRANCH: main
+          VALIDATE_PYTHON_MYPY: false
+
   build-and-run:
     runs-on: ubuntu-latest
     steps:
