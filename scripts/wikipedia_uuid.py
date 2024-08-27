@@ -3,6 +3,7 @@ Wikipedia Oscar-winning films scraper and database population script.
 This script scrapes data about Academy Award-winning films from Wikipedia,
 stores it in a database, and exports it to CSV and JSON formats.
 """
+
 import logging
 import uuid
 
@@ -29,7 +30,7 @@ def scrape_oscar_winning_films():
         response = fetchPage(url)
         if response is None:
             raise Exception("Failed to fetch the Wikipedia page")
-        
+
         soup = bs(response.content, features="html.parser")
         logging.info("Created the soup.")
 
@@ -60,6 +61,7 @@ def scrape_oscar_winning_films():
     except Exception as e:
         logging.error(f"Error scraping Oscar-winning films: {str(e)}")
         raise
+
 
 def main():
     """
@@ -96,7 +98,9 @@ def main():
         print("Inserted test entry.")
 
         # Create DataFrame for CSV and JSON export
-        df = pd.DataFrame(movies_data, columns=["id", "film", "year", "awards", "nominations"])
+        df = pd.DataFrame(
+            movies_data, columns=["id", "film", "year", "awards", "nominations"]
+        )
         exportToCsv(df)
         exportToJson(df)
         print("CSV and JSON files created successfully.")
@@ -105,6 +109,7 @@ def main():
         logging.error(f"A database error occurred: {str(e)}")
     except Exception as e:
         logging.error(f"An unexpected error occurred: {str(e)}")
+
 
 if __name__ == "__main__":
     main()

@@ -15,7 +15,10 @@ from . import Base, Session, engine
 from .schema import AcademyAwardWinningFilms, TestTable
 
 # Setup logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+)
+
 
 def initialize_schema():
     """
@@ -27,26 +30,29 @@ def initialize_schema():
     try:
         metadata = MetaData()
         # Explicitly define tables
-        Table('academy_award_winning_films', metadata,
-              *[c.copy() for c in AcademyAwardWinningFilms.__table__.columns])
-        Table('TestTable', metadata,
-              *[c.copy() for c in TestTable.__table__.columns])
+        Table(
+            "academy_award_winning_films",
+            metadata,
+            *[c.copy() for c in AcademyAwardWinningFilms.__table__.columns],
+        )
+        Table("TestTable", metadata, *[c.copy() for c in TestTable.__table__.columns])
         # Create tables
         metadata.create_all(engine)
         logging.info("Database schema initialized successfully.")
-        
+
         # Verify tables
         inspector = inspect(engine)
         tables = inspector.get_table_names()
         logging.info(f"Tables in the database: {tables}")
-        
-        if 'academy_award_winning_films' in tables and 'TestTable' in tables:
+
+        if "academy_award_winning_films" in tables and "TestTable" in tables:
             logging.info("All required tables have been created successfully.")
         else:
             logging.error("Not all required tables were created.")
     except SQLAlchemyError as e:
         logging.error(f"Error initializing database schema: {str(e)}")
         raise
+
 
 def check_tables_exist():
     """
@@ -57,8 +63,9 @@ def check_tables_exist():
     """
     inspector = inspect(engine)
     existing_tables = inspector.get_table_names()
-    required_tables = ['academy_award_winning_films', 'TestTable']
+    required_tables = ["academy_award_winning_films", "TestTable"]
     return all(table in existing_tables for table in required_tables)
+
 
 def truncate_tables(session):
     """
@@ -73,6 +80,7 @@ def truncate_tables(session):
     for table in [AcademyAwardWinningFilms, TestTable]:
         session.query(table).delete()
     logging.info("All tables truncated successfully.")
+
 
 def insert_records(session, records, commit=True):
     """
@@ -97,6 +105,7 @@ def insert_records(session, records, commit=True):
         logging.error(f"Error inserting records: {str(e)}")
         raise
 
+
 def initDB(records):
     """
     Initialize the database by creating schema, truncating existing tables, and inserting initial records.
@@ -110,20 +119,20 @@ def initDB(records):
     try:
         # Initialize the schema first
         initialize_schema()
-        
+
         # Check if tables exist
         if not check_tables_exist():
             logging.error("Tables were not created successfully.")
             return
-        
+
         session = Session()
         try:
             # Truncate existing tables
             truncate_tables(session)
-            
+
             # Insert new records without committing
             insert_records(session, records, commit=False)
-            
+
             # Commit all changes in a single transaction
             session.commit()
             logging.info("Database initialized successfully with new records.")
@@ -134,8 +143,11 @@ def initDB(records):
         finally:
             session.close()
     except Exception as e:
-        logging.error(f"An unexpected error occurred during database initialization: {str(e)}")
+        logging.error(
+            f"An unexpected error occurred during database initialization: {str(e)}"
+        )
         raise
+
 
 def insertRow(row):
     """
@@ -150,7 +162,7 @@ def insertRow(row):
     if not check_tables_exist():
         logging.error("Tables do not exist. Cannot insert row.")
         return
-    
+
     session = Session()
     try:
         session.add(row)

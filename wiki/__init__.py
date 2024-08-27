@@ -23,7 +23,10 @@ from .export_functions import exportToCsv, exportToJson
 from .utils import create_data_folder, uuid_to_str
 
 # Setup logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+)
+
 
 def fetchPage(url):
     """
@@ -46,16 +49,17 @@ def fetchPage(url):
         logging.error("Failed to fetch the page - No internet connection.")
         raise Exception("Failed to fetch the page - No internet connection.")
 
+
 # Expose commonly used functions and classes
 __all__ = [
-    'pd',
-    'BeautifulSoup',
-    'requests',
-    'logging',
-    'uuid',
-    'exportToCsv',
-    'exportToJson',
-    'create_data_folder',
-    'uuid_to_str',
-    'fetchPage'
+    "pd",
+    "BeautifulSoup",
+    "requests",
+    "logging",
+    "uuid",
+    "exportToCsv",
+    "exportToJson",
+    "create_data_folder",
+    "uuid_to_str",
+    "fetchPage",
 ]

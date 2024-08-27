@@ -9,11 +9,13 @@ from sqlalchemy.ext.declarative import declarative_base
 
 Base = declarative_base()
 
+
 class AcademyAwardWinningFilms(Base):
     """
     SQLAlchemy ORM model for the academy_award_winning_films table.
     """
-    __tablename__ = 'academy_award_winning_films'
+
+    __tablename__ = "academy_award_winning_films"
 
     id = Column(String(36), primary_key=True)
     film = Column(String(255), nullable=False)
@@ -21,9 +23,7 @@ class AcademyAwardWinningFilms(Base):
     awards = Column(Integer, nullable=True)
     nominations = Column(Integer, nullable=True)
 
-    __table_args__ = (
-        CheckConstraint('year >= 1888', name='check_year'),
-    )
+    __table_args__ = (CheckConstraint("year >= 1888", name="check_year"),)
 
     def __init__(self, id: str, film: str, year=None, awards=None, nominations=None):
         """
@@ -42,11 +42,13 @@ class AcademyAwardWinningFilms(Base):
         self.awards = awards
         self.nominations = nominations
 
+
 class TestTable(Base):
     """
     SQLAlchemy ORM model for the TestTable.
     """
-    __tablename__ = 'TestTable'
+
+    __tablename__ = "TestTable"
 
     id = Column(String(36), primary_key=True)
     text = Column(String(255), nullable=False)
