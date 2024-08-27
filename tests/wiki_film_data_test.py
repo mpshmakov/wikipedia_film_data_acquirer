@@ -1,19 +1,27 @@
-import pytest
-from unittest.mock import patch, MagicMock
-import pandas as pd
-import uuid
-import sys
 import os
-from sqlalchemy.exc import SQLAlchemyError
+import sys
+import uuid
+from unittest.mock import MagicMock, patch
+
+import pandas as pd
+import pytest
 
 # Import statements remain the same
 import requests
-from wiki import fetchPage, BeautifulSoup
-from wiki.export_functions import exportToCsv, exportToJson
-from wiki.utils import create_data_folder, uuid_to_str, clean_numeric
-from database.operations import check_tables_exist, initDB, initialize_schema, insert_records, insertRow, engine
+from database.operations import (
+    check_tables_exist,
+    engine,
+    initDB,
+    initialize_schema,
+    insert_records,
+    insertRow,
+)
 from database.schema import AcademyAwardWinningFilms, TestTable
-from scripts.wikipedia_uuid import scrape_oscar_winning_films, main
+from scripts.wikipedia_uuid import main, scrape_oscar_winning_films
+from sqlalchemy.exc import SQLAlchemyError
+from wiki import BeautifulSoup, fetchPage
+from wiki.export_functions import exportToCsv, exportToJson
+from wiki.utils import clean_numeric, create_data_folder, uuid_to_str
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 

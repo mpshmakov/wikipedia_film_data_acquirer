@@ -4,10 +4,13 @@ Export functions for the Wiki module.
 This module provides functions to export data to CSV and JSON formats.
 """
 
-import pandas as pd
 import json
 import logging
+
+import pandas as pd
+
 from .utils import create_data_folder, uuid_to_str
+
 
 def exportToCsv(df, filename='./data/output.csv'):
     """

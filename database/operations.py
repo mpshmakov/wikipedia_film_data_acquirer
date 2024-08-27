@@ -5,12 +5,14 @@ This module provides functions for initializing the database schema,
 checking table existence, inserting records into the database, and truncating tables.
 """
 
-from sqlalchemy import inspect, Table, MetaData
+import logging
+
+from sqlalchemy import MetaData, Table, inspect
 from sqlalchemy.exc import SQLAlchemyError
 from sqlalchemy.orm import Session
-from . import engine, Base, Session
+
+from . import Base, Session, engine
 from .schema import AcademyAwardWinningFilms, TestTable
-import logging
 
 # Setup logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
