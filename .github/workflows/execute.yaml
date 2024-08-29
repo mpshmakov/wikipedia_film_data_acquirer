@@ -31,6 +31,13 @@ jobs:
           commit_user_name: super-linter
           commit_user_email: super-linter@super-linter.dev
 
+  test-job:
+    needs:
+      - formatting-check
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "$needs.formatting-check.result"
+
   formatting-fix:
     needs:
       - formatting-check
