@@ -32,18 +32,24 @@ jobs:
           commit_user_name: super-linter
           commit_user_email: super-linter@super-linter.dev
 
-  test-job:
+  check-formatting-validation-result:
     needs:
       - formatting-check
     if: always()
     runs-on: ubuntu-latest
     steps:
-      - run: echo "$needs.formatting-check.result"
+      - if: (needs.formatting-check.result == 'failure' || needs.formatting-check.result == 'cancelled')
+        run: echo "fail or cancelled"
+        run: exit 1
+      - if: (needs.formatting-check.result == 'success' || needs.formatting-check.result == 'skipped')
+        run: echo "success"
+        run: exit 0
 
   formatting-fix:
     needs:
       - formatting-check
-    if: (needs.formatting-check.result != 'success' || needs.formatting-check.result != 'skipped')
+      - check-formatting-validation-result
+    if: always() && needs.check-formatting-validation-result.result == 'failure'
     permissions:
       contents: write
       statuses: write
