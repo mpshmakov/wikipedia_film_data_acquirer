@@ -39,11 +39,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - if: (needs.formatting-check.result == 'failure' || needs.formatting-check.result == 'cancelled')
-        run: echo "fail or cancelled"
-        run: exit 1
+        run: echo "fail or cancelled" && exit 1
       - if: (needs.formatting-check.result == 'success' || needs.formatting-check.result == 'skipped')
-        run: echo "success"
-        run: exit 0
+        run: echo "success" && exit 0
 
   formatting-fix:
     needs:
