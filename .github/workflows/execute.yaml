@@ -64,7 +64,7 @@ jobs:
           FIX_PYTHON_ISORT: true
           VALIDATE_PYTHON_BLACK: true
           FIX_PYTHON_BLACK: true
-      - name: commit and push fixes
+      - name: Commit and push fixes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: fix linting issues"
