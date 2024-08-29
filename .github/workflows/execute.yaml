@@ -18,6 +18,7 @@ jobs:
         uses: super-linter/super-linter/slim@v7.0.0
         env:
           DEFAULT_BRANCH: main
+          SAVE_SUPER_LINTER_OUTPUT: true
           VALIDATE_PYTHON_ISORT: true
           VALIDATE_PYTHON_BLACK: true
           VALIDATE_ALL_CODEBASE: false
