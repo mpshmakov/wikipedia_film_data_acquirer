@@ -34,7 +34,7 @@ jobs:
   formatting-fix:
     needs:
       - formatting-check
-    if: needs.formatting-check.result == 'failure'
+    if: (needs.formatting-check.result == 'success' || needs.formatting-check.result == 'skipped')
     permissions:
       contents: write
       statuses: write
