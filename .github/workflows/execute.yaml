@@ -32,6 +32,9 @@ jobs:
           commit_user_email: super-linter@super-linter.dev
 
   formatting-fix:
+    needs:
+      - formatting-check
+    if: needs.formatting-check.result == 'failure'
     permissions:
       contents: write
       statuses: write
