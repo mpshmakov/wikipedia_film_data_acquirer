@@ -72,6 +72,7 @@ jobs:
     runs-on: ubuntu-latest
     needs:
       - formatting-fix
+    if: always()
     steps:
       - uses: actions/checkout@v3
 
