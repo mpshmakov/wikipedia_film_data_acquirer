@@ -24,12 +24,6 @@ jobs:
           VALIDATE_ALL_CODEBASE: false
           IGNORE_GITIGNORED_FILES: true
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: commit and push super-linter output
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: saving validation output"
-          commit_user_name: super-linter
-          commit_user_email: super-linter@super-linter.dev
 
   check-formatting-validation-result:
     needs:
