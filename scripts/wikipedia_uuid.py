@@ -68,6 +68,8 @@ def main():
     Main function to orchestrate the scraping, database population, and data export process.
     """
     try:
+
+
         # Initialize the database schema
         initialize_schema()
 
@@ -76,7 +78,7 @@ def main():
             logging.error("Tables do not exist after schema initialization. Exiting.")
             return
 
-        movies_data = scrape_oscar_winning_films()
+        movies_data=scrape_oscar_winning_films()
 
         # Create AcademyAwardWinningFilms objects
         movies = [AcademyAwardWinningFilms(*movie) for movie in movies_data]
