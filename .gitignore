@@ -22,4 +22,3 @@ test.json
 .coverage
 wikipedia_uuid.prof
 .pytest_cache
-execute.yaml
