@@ -3,7 +3,6 @@ Wikipedia Oscar-winning films scraper and database population script.
 This script scrapes data about Academy Award-winning films from Wikipedia,
 stores it in a database, and exports it to CSV and JSON formats.
 """
-
 import logging
 import uuid
 import pandas as pd
@@ -14,8 +13,6 @@ from wiki import BeautifulSoup as bs
 from wiki import fetchPage, requests
 from wiki.export_functions import exportToCsv, exportToJson
 from wiki.utils import clean_numeric
-
-
 def scrape_oscar_winning_films():
     """
     Scrape Oscar-winning films data from Wikipedia.
