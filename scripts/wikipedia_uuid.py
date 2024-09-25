@@ -6,7 +6,6 @@ stores it in a database, and exports it to CSV and JSON formats.
 
 import logging
 import uuid
-
 import pandas as pd
 from database import AcademyAwardWinningFilms, Session, TestTable, initDB, insertRow
 from database.operations import check_tables_exist, initialize_schema
